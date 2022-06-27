@@ -27,16 +27,16 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/IMG-8957.jpg
 # 100-200 characters recommended
-greeting_text: Hey, I'm Point Theme! I'm a Jekyll theme for personal websites that are short & to the point. Fork it on Github, customize the styles and options, and enjoy!
+# greeting_text: Hey, I'm Point Theme! I'm a Jekyll theme for personal websites that are short & to the point. Fork it on Github, customize the styles and options, and enjoy!
 
 # show blog post excerpts on blog page
 show_excerpts: false
 excerpt_word_count: 70
 
 # long date: April 20, 1969
-long_date: false
+long_date: true
 # short date: Apr ‘69
-short_date: true
+short_date: false
 
 #
 #
