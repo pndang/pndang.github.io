@@ -1,11 +1,11 @@
 ---
 ---
 
-$accent-color: #b00; // link color
+$accent-color: #00A2FF; // link color
 $font-stack: system-ui, Helvetica, Arial, sans-serif;
 $heading-font-stack: system-ui, Helvetica, Arial, sans-serif; // use this to set a different font for your headings if you want
-$code-font-stack: Inconsolata, monospace; // fonts for inline code and code blocks
-$container-max-width: 700px;
+// $code-font-stack: Inconsolata, monospace; // fonts for inline code and code blocks
+$container-max-width: 750px;
 
 // reset
 * {
@@ -41,11 +41,20 @@ nav a {
 }
 
 // typography: heading
-h1,
-h2,
+h1 {
+  color: #333;
+  font-family: $heading-font-stack;
+  font-weight: 300;
+}
+h2 {
+  color: #333;
+  font-family: $heading-font-stack;
+  font-weight: 300;
+}
 h3 {
   color: #333;
   font-family: $heading-font-stack;
+  font-weight: 300;
 }
 
 h1 {
@@ -54,8 +63,8 @@ h1 {
 }
 
 .global-title {
-  font-size: 3rem;
-  color: #222;
+  font-size: 2.25rem;
+  color: #333;
 }
 
 h2 {
@@ -90,6 +99,7 @@ li:first-child {
 
 a {
   color: $accent-color;
+  text-decoration: none;
 }
 
 a:hover,
@@ -104,7 +114,7 @@ img {
 
 .avatar {
   width: 7rem;
-  height: 7rem;
+  height: 8rem;
   border-radius: 4rem;
   margin-right: 1.5rem;
 }
@@ -153,9 +163,9 @@ img {
   margin-top: 0.75rem;
 }
 
-code {
-  background: #ddd;
-  padding: 3px 5px;
-  border-radius: 2px;
-  font-family: $code-font-stack;
-}
+// code {
+//   background: #ddd;
+//   padding: 3px 5px;
+//   border-radius: 2px;
+//   font-family: $code-font-stack;
+// }
