@@ -1,6 +1,6 @@
 ---
 ---
-Hi 👋! I Hope this finds you well! I am a **Student in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [University of California San Diego 🔱](https://www.ucsd.edu)**.
+Hi 👋! I am a **Student in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [University of California San Diego 🔱](https://www.ucsd.edu)**.
 
 Born and raised in Ho Chi Minh City, Vietnam 🇻🇳.
 
