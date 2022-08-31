@@ -17,11 +17,14 @@ nav-links:
   - name: Home
     url: /
     external: false
-  - name: About
-    url: /blog
+  - name: Resume
+    url: /resume
     external: false
   - name: Experience
     url: /experience
+    external: false
+  - name: Recommendations
+    url: /recommendations
     external: false
 
 # for the homepage image + big text next to it
