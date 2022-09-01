@@ -26,6 +26,16 @@ nav-links:
   - name: Recommendations
     url: /recommendations
     external: false
+  - name: (669) 274-8956
+    url: 
+    external: true
+  - name: dangnphu31@gmail.com
+    url: mailto:dangnphu31@gmail.com
+    external: true
+  - name: linkedin.com/in/phungocdang
+    url: https://www.linkedin.com/in/phungocdang/
+    external: true
+    
 
 # for the homepage image + big text next to it
 greeting_image: /assets/IMG-8957.jpg

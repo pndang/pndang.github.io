@@ -20,13 +20,10 @@
                 <ul>
                     {% for link in site.nav-links %}
                     <li>
-                        {% if link.external == true %}
-                        <a href="{{ link.url }}">
-                        {% endif %}
                         {% if link.external != true %}
                         <a href="{{ link.url | prepend:site.url }}">
-                        {% endif %}
                             {{ link.name }}
+                        {% endif %}
                         </a>
                     </li>
                     {% endfor %}
