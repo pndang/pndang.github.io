@@ -42,3 +42,32 @@ Company website: [Deloitte Consulting](https://www2.deloitte.com/global/en/servi
 - Performed multiple linear regression, EDA, and visualization in Excel and Python
 - Presented findings/consultations to a non-technical audience of Deloitte practitioners (Managers, Analysts, Specialists) and student advisors from the Halicioglu Data Science Institute
 - Worked 1-on-1 with a personal mentor (Data Science Manager at Deloitte) on a weekly basis
+
+<br>
+
+<div class="greeting-container"> 
+  <img src="assets/jacobs.png" alt="Jacobs School of Engineering" class="avatar" />
+  <p><strong><br>UCSD CSE SPIS Student
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Aug 2021 - Sep 2021</strong><em><br>San Diego, California
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Development Program</em></p>
+</div>
+
+Program website: [SPIS - Summer Program for Incoming Students](http://spis.ucsd.edu/)
+
+Introduction to coding in Python, programming concepts and algorithms
+
+- Developed a web-app information filtering system that generates vehicle suggestions given a user's lifestyle following a decision tree
+- Programmed in Python and HTML for brower display of user interface
+
+<br>
+
+<div class="greeting-container"> 
+  <img src="assets/sc.png" alt="SCHS" class="avatar" />
+  <p><strong><br>SCHS Swim Team Manager and Swimmer
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Feb 2018 - Jun 2021</strong><em><br>San Jose, California
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Team Manager (2021), Swimmer (2017-2021)</em></p>
+</div>
