@@ -4,7 +4,7 @@ title: Technical and Leadership Experience
 
 <em>"Links to disclosable code, presentations, and deliverables are available on my LinkedIn profile"</em>
 
-
+<br>
 
 <div class="greeting-container"> 
   <img src="assets/goingsolo.png" alt="Going Solo" class="avatar" />
@@ -15,7 +15,7 @@ title: Technical and Leadership Experience
   Internship</em></p>
 </div>
 
-Company website: [Going Solo Consulting](https://goingsolo.com/)
+Company website: [Going Solo IT Services & IT Consulting](https://goingsolo.com/)
 
 - Implemented a character-based word embeddings model based on a recurrent 
 neural network using Keras from TensorFlow and Scikit-learn for linear 
@@ -36,7 +36,7 @@ dimensionality reduction of vectors
   Development Program</em></p>
 </div>
 
-Company website: [Deloitte Consulting](https://www2.deloitte.com/global/en/services/consulting-deloitte.html)
+Company website: [Deloitte Business Consulting & Services](https://www2.deloitte.com/global/en/services/consulting-deloitte.html)
 
 - Generated employment metric forecasts using ARIMA in R
 - Performed multiple linear regression, EDA, and visualization in Excel and Python
@@ -71,3 +71,14 @@ Introduction to coding in Python, programming concepts and algorithms
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Team Manager (2021), Swimmer (2017-2021)</em></p>
 </div>
+
+<br>
+
+- Responsible for acquiring, storing, and presenting athletes' race times and lap time splits
+- Hardware facet: scoreboard operation, backup timers preparation, starter/speaker system setup
+- Software facet: Excel data entry (styling must follow SCHS’s practices and in formats readable by sports software), Hy-Tek meet manager software operation
+- Systems used: Colorado System 6 Sports Timing System and Hy-Tek meet manager
+
+<em>Notable accomplishments:</em> 2018 JV Coach's Award, 2019 JV Valuable Swimmer Award, 2021 Varsity Swim Appreciation Award, 2021 Varsity Coaches Choice Award
+
+(4 awards given by 4 different coaches over 4 years)
