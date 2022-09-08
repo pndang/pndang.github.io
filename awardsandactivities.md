@@ -27,10 +27,10 @@ title: More about me
 
 - Active member: Newman Catholic Community at UCSD, Intramural Volleyball and Basketball
 - Media Coordinator and Player on UCSD Men's Club Water Polo Team &nbsp; (Fall 2021 - present)
-    - Follow us on IG at ucsdmcwp ;)
+    - Follow us on IG at ucsdmcwp :)
 - Watersports (swimming and water polo; surfing potentially)
 - Motorsports (Car enthusiast, Formula 1 and MotoGP)
 - Astronomy
 - Traveling
 - What is Star Wars?? I only know Star Trek
-- Watching football <em>- "What the rest of the world call football"</em>
+- Watching and discussing football <em>- "What the rest of the world call football"</em>
