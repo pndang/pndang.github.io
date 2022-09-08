@@ -24,6 +24,7 @@ dimensionality reduction of vectors
 - Performed API calls to query data using [findl.com](https://findl.com/)
 - Analyzed an S&P 500 stock and developed an interactive dashboard in Tableau
 - Organized projects and led team communication across 9 different time zones
+- Refined and maintained a project management dashboard in Google Sheets to track progress and report to supervisor
 
 <br>
 
