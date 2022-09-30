@@ -6,9 +6,14 @@ title: More about me
 
 ## Honors and Awards
 
+### <strong>USS PACE Fellow Scholarship ($6,000)</strong> &nbsp;(Fall 2022 - Present)
+
+- Professional & personal development fellowship under the direct guidance and mentorship from a professor of student's choosing
+- Work: Epidemiological and genomics data science research in Professor Niema Moshiri's lab
+
 ### <strong>Member of Roosevelt College Honors Program at UC San Diego</strong>
 
-- Fall 2021 - present
+- Fall 2021 - Present
 
 ### <strong>Silver Creek High School Valedictorian</strong> &nbsp;(2021)
 

@@ -12,7 +12,7 @@ I am pursuing a BS degree in Data Science, with a goal to double major in Real E
 ## Focuses and Interests
 
 ### Data Analytics
-- Business analytics, consulting, decision analysis using quantitative methods, statistical and exploratory analysis
+- Business analytics, real estate analysis, consulting, decision analysis using quantitative methods, statistical and exploratory analysis
 
 ### Data Science (ML/AI)
 - Predictive analysis, text/image analysis, automated data labeling, and computer vision
