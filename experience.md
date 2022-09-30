@@ -82,4 +82,4 @@ Introduction to coding in Python, programming concepts and algorithms
 
 <em>Notable accomplishments:</em> 2018 JV Coach's Award, 2019 JV Valuable Swimmer Award, 2021 Varsity Swim Appreciation Award, 2021 Varsity Coaches Choice Award
 
-Fun fact: (4 awards given by 4 different coaches over 4 years)
+Fun fact: &nbsp; (4 awards given by 4 different coaches over 4 years)
