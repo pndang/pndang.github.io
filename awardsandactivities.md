@@ -9,7 +9,7 @@ title: More about me
 ### <strong>USS PACE Fellow Scholarship ($6,000)</strong> &nbsp;(Fall 2022 - Present)
 
 - Professional & personal development fellowship under the direct guidance and mentorship from a professor of student's choosing
-- Work: Epidemiological and genomics data science assistant in [Professor Niema Moshiri's lab](https://niema.net/)
+- Work: Viral epidemics and genomics data science trainee in [Professor Niema Moshiri's lab](https://niema.net/)
 
 ### <strong>Member of Roosevelt College Honors Program at UC San Diego</strong>
 
