@@ -14,7 +14,7 @@ I am also double-majoring in Real Estate & Development to gain professional skil
 ## Focuses and Interests
 
 ### Data Analytics
-- Business intelligence & analytics, real estate analysis, consulting, decision analysis using quantitative methods, statistical and exploratory analysis
+- Business intelligence, real estate analysis, consulting, decision analysis using quantitative methods, statistical and exploratory analysis
 
 ### Data Science (ML/AI)
 - Predictive analysis, text/image analysis, automated data labeling, and computer vision
