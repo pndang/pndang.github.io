@@ -6,7 +6,7 @@ title: More about me
 
 ## Honors and Awards
 
-### <strong>USS PACE Fellow Scholarship ($6,000)</strong> &nbsp;(Fall 2022 - Present)
+### <strong>USS PACE Fellow Scholarship ($6,000)</strong> &nbsp;(Awarded Fall 2022)
 
 - Professional & personal development fellowship under the direct guidance and mentorship from a professor of student's choosing
 - Work: Viral epidemics and genomics data science trainee in [Professor Niema Moshiri's lab](https://niema.net/)
