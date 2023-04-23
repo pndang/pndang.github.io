@@ -6,7 +6,7 @@ title: More about me
 
 ## Honors and Awards
 
-### <strong>UC San Diego 36th Annual Undergraduate Research Conference Nomination</strong> &nbsp;
+### <strong>UC San Diego 36th Annual Undergraduate Research Conference  Nomination</strong> &nbsp;
 
 - Machine Learning project: Exploratory and Predictive Analytics for Precision Medicine (Presented Spring 2023)
 - Mentor: Dr. Niema Moshiri, Partner: Leena Kang, applied mathematics undergraduate student
