@@ -38,12 +38,12 @@ title: More about me
 
 ## Activities and Hobbies
 
-- Active member: Newman Catholic Community at UCSD, Intramural Volleyball and Basketball
-- Media Coordinator and Player on UCSD Men's Club Water Polo Team &nbsp; (Fall 2021 - present)
-    - Follow us on IG at ucsdmcwp :)
-- Watersports (swimming and water polo; surfing potentially)
-- Motorsports (Car enthusiast, Formula 1 and MotoGP)
+- Active member: Newman Catholic Community at UCSD, Intramural Sports, Data Science Student Society (DS3)
+- Event Coordinator and Player on [UCSD Men's Club Water Polo Team](https://recreation.ucsd.edu/competitive-sports/m-water-polo/) (Fall 2021 - present)
+- [DS3](https://www.ds3ucsd.com/) Workshops Committee Member (Fall 2022 - present)
+    - Spearheaded the design of new and contributed to existing technical workshops in business intelligence and software engineering, catering to the needs of a diverse audience of over 150 undergraduate students
+- Watersports (swimming and water polo)
+- Motorsports (Formula 1 and MotoGP)
 - Astronomy
-- Traveling
-- What is Star Wars?? I only know Star Trek
+- Travelling
 - Watching and discussing football <em>- "What the rest of the world call football"</em>
