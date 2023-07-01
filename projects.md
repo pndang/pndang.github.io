@@ -4,7 +4,7 @@ title: Projects
 
 <br>
 
-### <strong>Illuminating Cognizance</strong>&nbsp;(Personal Project)
+<strong>Illuminating Cognizance</strong>&nbsp;(Personal Project)
 
 A comprehensive look into major power outages in the U.S. to assess statistical relationships (part 1) through exploratory analysis, hypothesis testing, data missingness assessment, and predictive power (part 2) using supervised machine learning models and feature engineering, built in pipelines with evaluation comprising diverse accuracy metrics and cogent assessments.
 
@@ -12,7 +12,7 @@ Links: &nbsp; [exploratory analysis](https://pndang.com/illuminating-cognizance/
 
 <br>
 
-### <strong>World Happiness Report 2022</strong>&nbsp;(Team Project)
+<strong>World Happiness Report 2022</strong>&nbsp;(Team Project)
 
 Conducted a comprehensive analysis of global happiness patterns using public data from the 2022 World Happiness Report to uncover insights into the factors influencing well-being worldwide.
 
