@@ -24,7 +24,7 @@ Project [CEVPR v1](https://github.com/pndang/CEVPR_v1):
 - Achieved a remarkable 97% reduction in initial runtime by implementing memoization and employing a highly efficient data structure for smoothing algorithm
 - Implemented and benchmarked data compression techniques to optimize serialization efficiency and expedite loading speed
 
-Project [WHEL](https://github.com/pndang/Project_WHEL) (partnered with Leena Kang):
+Project [WHEL](https://github.com/pndang/Project_WHEL) (partnered with [Leena Kang](https://www.linkedin.com/in/leena-kang/)):
 - Plotted in-depth uni-, bi-, multivariate visualizations to uncover intricate patterns within extensive datasets encompassing 3000+ women with varying breast cancer stages across 30+ large-scale datasets
 - Conducted rigorous analysis and investigation of disparities and data collection gaps, demonstrating a commitment to ethical and responsible data science practices
 - Implemented robust false discovery correction to ensure the statistical significance and reliability of conclusions derived from multiple hypothesis tests 
