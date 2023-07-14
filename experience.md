@@ -29,7 +29,7 @@ Project [WHEL](https://github.com/pndang/Project_WHEL) (partnered with [Leena Ka
 - Conducted rigorous analysis and investigation of disparities and data collection gaps, demonstrating a commitment to ethical and responsible data science practices
 - Implemented robust false discovery correction to ensure the statistical significance and reliability of conclusions derived from multiple hypothesis tests 
 - Attained promising predictive performance, exceeding 87% accuracy across diverse evaluation metrics, in accurately predicting breast cancer recurrence status
-- Implemented and assessed effective solutions to address the challenges posed by imbalanced data, enabling reliable and accurate predictions
+- Implemented and assessed solutions to handle imbalanced data for reliable predictions
 - Honored with a nomination by Dr. Moshiri to deliver a presentation at UCSD’s 36th Annual Undergrad Research Conference
 
 <br>
@@ -73,7 +73,7 @@ A selective data science mentorship program jointly organized by Deloitte and th
 - Collaborated closely with a dedicated mentor from Deloitte, receiving personalized guidance and support on a weekly basis
 - Utilized ARIMA models in R to generate accurate employment metric forecasts
 - Conducted in-depth analysis using both Excel and Python, employing multiple linear regression, exploratory data analysis (EDA), and data visualization to extract actionable insights
-- Effectively communicated findings to diverse audiences, including non-technical attendees comprising HDSI students, advisors, and Deloitte practitioners, including Analysts, Managers, and Specialists.
+- Effectively communicated findings to diverse audiences, including non-technical attendees comprising HDSI students, advisors, and Deloitte practitioners, including analysts, managers, and specialists.
 
 Assumed a leadership position within the project group, taking charge of task assignments, scheduling meetings, and cultivating a cohesive project story when our team needed leadership; fostering a positive, motivated team environment, and on-time delivery
 
