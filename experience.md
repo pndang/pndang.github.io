@@ -71,7 +71,7 @@ A selective data science mentorship program jointly organized by Deloitte and th
 
 - Accepted into the program primarily targeting sophomores and juniors as one of few freshmen participants
 - Collaborated closely with a dedicated mentor from Deloitte, receiving personalized guidance and support on a weekly basis
-- Utilized ARIMA models in R to generate accurate employment metric forecasts
+- Utilized ARIMA models in R to generate employment metric forecasts
 - Conducted in-depth analysis using both Excel and Python, employing multiple linear regression, exploratory data analysis (EDA), and data visualization to extract actionable insights
 - Effectively communicated findings to diverse audiences, including non-technical attendees comprising HDSI students, advisors, and Deloitte practitioners, including analysts, managers, and specialists.
 
