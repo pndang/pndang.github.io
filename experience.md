@@ -45,12 +45,12 @@ Project [WHEL](https://github.com/pndang/Project_WHEL) (partnered with [Leena Ka
 
 Company website: [Going Solo IT Services & IT Consulting](https://goingsolo.com/)
 
-- Implemented false a character-based word embeddings model based on a recurrent neural network using Keras from TensorFlow, coupled with Scikit-learn for linear dimensionality reduction of vectors
+- Implemented a character-based word embeddings model based on a recurrent neural network using Keras from TensorFlow, coupled with Scikit-learn for linear dimensionality reduction of vectors
 - Streamlined data labeling processes through the implementation of an automated Bayesian classifier, significantly improving efficiency
 - Leveraged API calls to query data from findl.com, allowing seamless access to essential information for analysis
 - Conducted comprehensive analysis of an S&P 500 stock and transformed insights into an interactive dashboard using Tableau, facilitating intuitive visualization and exploration of key metrics
 - Demonstrated exceptional organizational skills by successfully coordinating projects and effectively managing team communication across 7+ time zones, ensuring smooth collaboration and timely delivery
-- Enhanced project management practices by refining and maintaining a dynamic project management dashboard in Google Sheets, enabling real-time progress tracking and streamlined reporting to supervisors
+- Enhanced project management practices by refining and maintaining a dynamic PM dashboard in Google Sheets, enabling real-time progress tracking and streamlined reporting to supervisors
 
 Exceeded internship expectations by proactively implementing an automated data labeling tool by leveraging machine learning, effectively saving significant time and resources when the initial assigned approach was brute force, setting a new standard for efficiency and problem-solving at the company
 
