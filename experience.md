@@ -10,7 +10,7 @@ title: Technical and Leadership Experience
   <img src="assets/jacobs.png" alt="Jacobs School of Engineering" class="avatar" />
   <p><strong><br>Data Science Trainee in Niema Lab
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Sep 2022 - Jun 2023</strong><em><br>San Diego, California
+  Sep 2022 - Present</strong><em><br>La Jolla, California
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Fellowship</em></p>
 </div>
@@ -19,18 +19,34 @@ Data science experiential learning fellowship with the Computer Science & Engine
 
 Mentor: [Dr. Niema Moshiri](http://niema.net/)
 
-Project [CEVPR v1](https://github.com/pndang/CEVPR_v1):
-- Developed an interactive Dash application for visualizing Covid-19 time-series data with variant segmentation
-- Achieved a remarkable 97% reduction in initial runtime by implementing memoization and employing a highly efficient data structure for smoothing algorithm
-- Implemented and benchmarked data compression techniques to optimize serialization efficiency and expedite loading speed
-
-Project [WHEL](https://github.com/pndang/Project_WHEL) (partnered with [Leena Kang](https://www.linkedin.com/in/leena-kang/)):
-- Plotted in-depth uni-, bi-, multivariate visualizations to uncover intricate patterns within extensive datasets encompassing 3000+ women with varying breast cancer stages across 30+ large-scale datasets
+- Developed an interactive Dash application for visualizing COVID-19 time-series data with variant segmentation
+- Programmed robust computational algorithms to dynamically and efficiently smooth data upon variable input parameters and update graph
+- Achieved a remarkable 97% reduction in initial runtime by implementing memoization and an efficient data structure for smoothing algorithm
+- Implemented and benchmarked data compression techniques to optimize serialization efficiency and expedite loading speed 
+- Wrote 7 research notebooks to uncover patterns in 30+ large-scale datasets involving 3000+ patients with varying breast cancer stages
 - Conducted rigorous analysis and investigation of disparities and data collection gaps, demonstrating a commitment to ethical and responsible data science practices
 - Implemented robust false discovery correction to ensure the statistical significance and reliability of conclusions derived from multiple hypothesis tests 
 - Attained promising predictive performance, exceeding 87% accuracy across diverse evaluation metrics, in accurately predicting breast cancer recurrence status
 - Implemented and assessed solutions to handle imbalanced data for reliable predictions
 - Honored with a nomination by Dr. Moshiri to deliver a presentation at UCSD’s 36th Annual Undergrad Research Conference
+
+<br>
+
+<div class="greeting-container"> 
+  <img src="assets/biokind.png" alt="Biokind Analytics" class="avatar" />
+  <p><strong><br>President & Data Analyst
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Sep 2022 - Present</strong><em><br>La Jolla, California
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Part-time</em></p>
+</div>
+
+- Manage organizational leadership, budget, marketing, outreach, and recruitment activities
+- Collaborate with local healthcare non-profits throughout San Diego to discuss potential avenues for data science to improve operational efficiency, impact, and profitability
+- Oversee and participate in student data science projects to ensure quality, timely delivery, and meet clients' expectations; facilitating opportunities for students to apply academic knowledge in impactful, real-world scenarios
+- Collaborate with clients to analyze complex operational/financial datasets in identifying key metrics and actionable insights, leading to improved client understanding of programs, initiatives, and research grants performance
+- Organize discussions and meetings with university teaching faculty, department advisors, and non-profit representatives
+- Communicate opportunities in public health and data science, including informational and engagement events, to chapter members
 
 <br>
 
@@ -67,13 +83,12 @@ Exceeded internship expectations by proactively implementing an automated data l
 
 Company website: [Deloitte Business Consulting & Services](https://www2.deloitte.com/global/en/services/consulting-deloitte.html)
 
-A selective data science mentorship program jointly organized by Deloitte and the Halicioglu Data Science Institute
+A data science mentorship program jointly organized by Deloitte and the Halicioglu Data Science Institute
 
-- Accepted into the program primarily targeting sophomores and juniors as one of few freshmen participants
+- Utilized ARIMA models to generate employment metric forecasts and predict market behaviors due to Covid-19
+- Conducted in-depth analysis to extract actionable insights uding multiple linear regression, exploratory data analysis (EDA), and visualization
 - Collaborated closely with a dedicated mentor from Deloitte, receiving personalized guidance and support on a weekly basis
-- Utilized ARIMA models in R to generate employment metric forecasts
-- Conducted in-depth analysis using both Excel and Python, employing multiple linear regression, exploratory data analysis (EDA), and data visualization to extract actionable insights
-- Effectively communicated findings to diverse audiences, including non-technical attendees comprising HDSI students, advisors, and Deloitte practitioners, including analysts, managers, and specialists.
+- Presented findings to an audience of Deloitte practitioners and advisors from the Halicioglu Data Science Institute
 
 Assumed a leadership position within the project group, taking charge of task assignments, scheduling meetings, and cultivating a cohesive project story when our team needed leadership; fostering a positive, motivated team environment, and on-time delivery
 
