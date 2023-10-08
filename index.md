@@ -21,4 +21,4 @@ My immigrant, first-generation student background, coupled with my commitment to
 - Cloud computing at scale, data systems/pipelines development for data acquisition/storage/organization/preprocessing
 
 ### Real Estate & Development
-- Residential (multifamily, mixed-use), commercial, property management, affordable housing, green building, urban economic development
+- Residential (multifamily, mixed-use), commercial, property management, affordable housing, green building, transit-oriented development, urban planning, urban economic development
