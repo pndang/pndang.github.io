@@ -9,3 +9,13 @@ title: References / Recommendations
 ![Abed](assets/abed.png)
 
 ![Yassin Kortam](assets/yassin.png)
+
+
+My letter of recommendation from Professor Todd Weaver, CPM, CCIM
+
+<embed src="assets/PhuDang_LetterofRec_ProfWeaver.pdf" type="application/pdf" width="100%" height="820">
+
+
+My letter of recommendation from Mr. Joseph Sandate, AP Statistics
+
+<embed src="assets/PhuDang_LetterofRec_MrSandate.pdf" type="application/pdf" width="100%" height="820">
