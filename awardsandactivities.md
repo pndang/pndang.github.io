@@ -36,7 +36,7 @@ title: More about me
 
 ## Activities and Hobbies
 
-- Active member: Newman Catholic Community at UCSD, Intramural Sports, Data Science Student Society (DS3)
+- Active member: Newman Catholic Community at UCSD, Intramural Sports, Data Science Student Society (DS3), Mentor Collective
 - Event Coordinator and Player on [UCSD Men's Club Water Polo Team](https://recreation.ucsd.edu/competitive-sports/m-water-polo/) (Sep 2021 - Sep 2023)
     - <strong><em>2022 National Champion</em></strong>
 - [DS3](https://www.ds3ucsd.com/) Workshops Committee Member (Fall 2022 - present)
