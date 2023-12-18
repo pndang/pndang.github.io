@@ -7,6 +7,33 @@ title: Technical and Leadership Experience
 <br>
 
 <div class="greeting-container"> 
+  <img src="assets/usplogo.jpg" alt="UCSD Urban Studies & Planning" class="avatar" />
+  <p><strong><br>Fellow Scholar
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Sep 2023 - Present</strong><em><br>La Jolla, California
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Fellowship</em></p>
+</div>
+
+<b>Affordable Housing Assistant Research Fellow</b>
+
+Real Estate + Data Science experiential learning fellowship with the Urban Studies & Planning Department and Homelessness Hub at UC San Diego, under the ULI H2H Mission Priority Initiative.
+
+Mentor: [Dr. Feiyang Sun](https://usp.ucsd.edu/people/faculty/profiles/sun-feiyang.html), [Dr. Mirle Rabinowitz-Bussell](https://usp.ucsd.edu/people/faculty/profiles/rabinowitz-bussell.html)
+ 
+- Identify and report policy incentives and cost factors relevant to the site context, opportunities, and constraints of affordable housing projects across the United States
+- Attend meetings and events with industry professionals at the Urban Land Institute to learn practical insights into the current market feasibility of affordable housing projects, with emphasis on LIHTC and ADUs
+- Received departmental sponsorship to get involved and network with the San Diego Green Building Council to study state-of-the-art green building techniques and potential avenues to integrate green building with affordable housing
+
+<b>Data Science Fellow</b>
+
+- Identified data sources across the local, city, and county levels for further analytical purposes, domains include land use, utilities, parking, transit networks, historical districts, balanced community development areas (TIF, CDBG, CIP), public health, and project-level public data
+- Conducted a literature review of basic to novel technical real estate data science applications, ranging from hedonic price models to neural networks
+- Developed a data processing script to retrieve and parse property data from CoStar into a tabular format for machine learning research purposes
+
+<br>
+
+<div class="greeting-container"> 
   <img src="assets/jacobs.png" alt="Jacobs School of Engineering" class="avatar" />
   <p><strong><br>Data Science Trainee in Niema Lab
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
