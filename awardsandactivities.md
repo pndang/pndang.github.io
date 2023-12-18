@@ -36,10 +36,16 @@ title: More about me
 
 ## Activities and Hobbies
 
-- Active member: Newman Catholic Community at UCSD, Intramural Sports, Data Science Student Society (DS3), Mentor Collective
-- Event Coordinator and Player on [UCSD Men's Club Water Polo Team](https://recreation.ucsd.edu/competitive-sports/m-water-polo/) (Sep 2021 - Sep 2023)
+- Active campus involvement: Newman Catholic Community at UCSD, Intramural Sports, UCSD Cycling, Mentor Collective
+- <b>Etkin Scholar</b> at Urban Land Institute - San Diego/Tijuana
+    - Endorsements: [Mr. Todd Weaver, CPM, CCIM](https://synergycre.com/); [UC San Diego Department of Urban Studies & Planning](https://usp.ucsd.edu/)
+    - "ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world." With the mission of shaping "the future of the built environment for transformative impact in communities worldwide."
+- Previous <b>Research Scholar</b> at Semiconductor Research Corporation Research Scholars Program
+    - Worked on projects related to the PRISM Center at UCSD, supported by SRC, including modeling of COVID-19 variants preference over time and exploratory/predictive analytics for precision medicine in Personalized and Secure Drug Discovery. Further details can be found under the involvement description with Niema Lab at Jacobs School of Engineering
+- Previous <b>Officer</b> and <b>Player</b> on [UCSD Men's Club Water Polo Team](https://recreation.ucsd.edu/competitive-sports/m-water-polo/) (Sep 2021 - Sep 2023)
     - <strong><em>2022 National Champion</em></strong>
-- [DS3](https://www.ds3ucsd.com/) Workshops Committee Member (Fall 2022 - present)
+    - Won my team the Best Social Media Creative Posts Award by UCSD Recreation as Media & Event Coordinator
+- Previous [DS3](https://www.ds3ucsd.com/) Workshops Committee Member (Oct 2022 - Oct 2023)
     - Spearheaded the design of new and contributed to existing technical workshops in business intelligence and software engineering, catering to the needs of a diverse audience of over 150 undergraduate students
 - Watersports (swimming and water polo)
 - Motorsports (Formula 1 and MotoGP)
