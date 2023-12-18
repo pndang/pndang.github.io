@@ -4,9 +4,7 @@
 
 From the San Francisco Bay Area, born and raised in Vietnam 🇻🇳
 
-I am a 3rd-year student studying [Data Science](https://datascience.ucsd.edu/) and [Real Estate](https://usp.ucsd.edu/) at [University of California San Diego](https://www.ucsd.edu). 
-
-My immigrant, first-generation student background, coupled with my commitment to swimming and water polo, gave me a strong work ethic, interpersonal skills, and leadership potential. In pursuing my double major, I seek to utilize the power of data to improve our world and expand my knowledge of the world through the lens of housing security, sustainability, urban development, and equitability. In integrating our living, working, and learning spaces with the natural environment, my goal is to find a nexus between technology and urban design to accelerate innovation for urban planning in making prosperous, attractive, safe, livable, sustainable, and affordable urban spaces.
+I am a 3rd-year student studying [Data Science](https://datascience.ucsd.edu/) and [Real Estate](https://usp.ucsd.edu/), with a planned minor in urban studies and planning at [University of California San Diego](https://www.ucsd.edu). My goal is to find a nexus between technology and urban design to accelerate innovation for urban planning in making prosperous, attractive, safe, livable, affordable, and climate-resilient urban spaces.
 
 
 ## Focuses and Interests
