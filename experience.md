@@ -23,7 +23,7 @@ Mentors: [Dr. Feiyang Sun](https://usp.ucsd.edu/people/faculty/profiles/sun-feiy
  
 - Identify and report policy incentives and cost factors relevant to the site context, opportunities, and constraints of affordable housing projects across the United States
 - Attend meetings and events with industry professionals at the Urban Land Institute to learn practical insights into the current market feasibility of affordable housing projects, with emphasis on LIHTC and ADUs
-- Received departmental sponsorship to get involved and network with the San Diego Green Building Council to study state-of-the-art green building techniques and potential avenues to integrate green building with affordable housing
+- Received departmental sponsorship to get involved and network with the San Diego Green Building Council to study state-of-the-art green building techniques and ways to integrate green building with affordable housing
 
 <b>Data Science Fellow</b>
 
@@ -50,7 +50,7 @@ Mentor: [Dr. Niema Moshiri](http://niema.net/)
 - Programmed robust computational algorithms to dynamically and efficiently smooth data upon variable input parameters and update graph
 - Achieved a remarkable 97% reduction in initial runtime by implementing memoization and an efficient data structure for smoothing algorithm
 - Implemented and benchmarked data compression techniques to optimize serialization efficiency and expedite loading speed 
-- Wrote 7 research notebooks to uncover patterns in 30+ large-scale datasets involving 3000+ patients with varying breast cancer stages
+- Wrote 7 research notebooks to uncover patterns in 30+ large-scale datasets involving 3000+ patients with varying breast cancer stages using scaled multivariate exploratory data analysis techniques
 - Conducted rigorous analysis and investigation of disparities and data collection gaps, demonstrating a commitment to ethical and responsible data science practices
 - Implemented robust false discovery correction to ensure the statistical significance and reliability of conclusions derived from multiple hypothesis tests 
 - Attained promising predictive performance, exceeding 87% accuracy across diverse evaluation metrics, in accurately predicting breast cancer recurrence status
@@ -71,9 +71,9 @@ Mentor: [Dr. Niema Moshiri](http://niema.net/)
 Organization website: [Biokind Analytics](https://www.biokind.org/)
 
 - Manage organizational leadership, budget, marketing, outreach, and recruitment activities
-- Collaborate with local healthcare non-profits throughout San Diego to discuss potential avenues for data science to improve operational efficiency, impact, and profitability
-- Oversee and participate in student data science projects to ensure quality, timely delivery, and meet clients' expectations; facilitating opportunities for students to apply academic knowledge in impactful, real-world scenarios
-- Collaborate with clients to analyze complex operational/financial datasets in identifying key metrics and actionable insights, leading to improved client understanding of programs, initiatives, and research grants performance
+- Collaborate with local healthcare non-profits throughout San Diego to discuss potential avenues for data science to improve insights generation, operational efficiency, impact, outreach, client satisfaction, return on investment, and data systems and use case designs
+- Oversee and participate in student data science projects to ensure quality, timely delivery, and meeting clients' expectations; facilitating opportunities for students to apply academic training in impactful, real-world scenarios
+- Collaborate with clients to analyze complex operational/financial datasets in identifying key metrics and actionable insights, leading to improved client understanding of programs, initiatives, research grants performance, and furthered clients mission as data-driven organizations
 - Organize discussions and meetings with university teaching faculty, department advisors, and non-profit representatives
 - Communicate opportunities in public health and data science, including informational and engagement events, to chapter members
 
@@ -90,7 +90,7 @@ Organization website: [Biokind Analytics](https://www.biokind.org/)
 
 Company website: [Going Solo IT Services & IT Consulting](https://goingsolo.com/)
 
-- Implemented a character-based word embeddings model based on a recurrent neural network using Keras from TensorFlow, coupled with Scikit-learn for linear dimensionality reduction of vectors
+- Implemented a character-based word embeddings model (char2vec) based on a recurrent neural network using Keras from TensorFlow, coupled with Scikit-learn for linear dimensionality reduction of vectors
 - Streamlined data labeling processes through the implementation of an automated Bayesian classifier, significantly improving efficiency
 - Leveraged API calls to query data from findl.com, allowing seamless access to essential information for analysis
 - Conducted comprehensive analysis of an S&P 500 stock and transformed insights into an interactive dashboard using Tableau, facilitating intuitive visualization and exploration of key metrics
@@ -136,7 +136,7 @@ Program website: [SPIS - Summer Program for Incoming Students](http://spis.ucsd.
 
 Introduction to coding in Python, programming concepts and algorithms
 
-- Final Project: Developed a web-app information filtering system that generates vehicle suggestions given a user's lifestyle following a decision tree
+- Final Project: A web-app information filtering system that generates vehicle suggestions given a user's lifestyle following a decision tree
 - Programmed in Python and HTML for brower display of user interface
 
 <br>
