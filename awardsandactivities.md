@@ -4,7 +4,13 @@ title: More about me
 
 <br>
 
-## Honors and Awards
+## Honors, Awards, and Credentials
+
+### <strong>LEED® Green Associate™</strong> 
+- Green Business Certification Inc. (GBCI)
+- U.S. Green Building Council
+- <b>Credential ID</b>: 11573596-GREEN-ASSOCIATE
+- [Certificate](https://drive.google.com/file/d/1YU757V6byP5l1xHB4kHaaU5J10i-yP-G/view?usp=sharing)
 
 ### <strong>USS PACE Fellow Scholarship (2nd)</strong> &nbsp;(Awarded Sep 2023)
 
