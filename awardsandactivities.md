@@ -53,7 +53,7 @@ title: More about me
     - Won my team the Best Social Media Creative Posts Award by UCSD Recreation as Media & Event Coordinator
 - Previous [DS3](https://www.ds3ucsd.com/) Workshops Committee Member (Oct 2022 - Oct 2023)
     - Spearheaded the design of new and contributed to existing technical workshops in business intelligence and software engineering, catering to the needs of a diverse audience of over 150 undergraduate students
-- Watersports (swimming and water polo)
+- Watersports (swimming, water polo, surfing)
 - Motorsports (Formula 1 and MotoGP)
 - Astronomy
 - Travelling
