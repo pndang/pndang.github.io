@@ -8,7 +8,8 @@ title: My meaningful moments
 
 <br>
 
-<embed type="image/jpg" src="assets/thetimes/vupda.jpg" alt="VUPDA" width="50%" height="50%"/>
+<embed type="image/jpg" src="assets/thetimes/vupda.jpg" alt="VUPDA" width="63%" height="63%"/>
+
 - Memorandum of Understanding Signing Ceremony between Vietnam and the USA, featuring the U.S. Consulate General in HCM City, American Planning Association-International Division (APAID), Vietnam Urban Planning and Development Association (VUPDA), Professor Bill Anderson (UCSD USP), Ms. Mai Nguyen (MIT), and others.
 - [Article](https://quyhoachdothi.com/en/announcement-vupda-signed-a-memorandum-of-understanding-with-the-american-planning-association/)
 
@@ -55,4 +56,4 @@ title: My meaningful moments
 
 <br>
 
-<embed type="image/png" src="assets/thetimes/cureboundevent.png" alt="Curebound" width="50%" height="50%"/>
+<embed type="image/png" src="assets/thetimes/cureboundevent.png" alt="Curebound" width="63%" height="63%"/>
