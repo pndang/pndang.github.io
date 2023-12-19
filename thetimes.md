@@ -4,7 +4,7 @@ title: My meaningful moments
 
 <br>
 
-1. 36th Annual Undergrad Research Conference (April 22, 2023)
+2. <b>36th Annual Undergrad Research Conference</b> (April 22, 2023)
 
 <br>
 
@@ -15,3 +15,9 @@ title: My meaningful moments
 
 <embed type="image/png" src="assets/thetimes/bevfruto.png" alt="Bev Fruto" width="50%" height="50%"/>
 - Conference coordinator Beverly Fruto
+
+1. <b>Curebound Equities in Cancer Research + Care Event</b> (April 18, 2023)
+
+<br>
+
+<embed type="image/png" src="assets/thetimes/cureboundevent.png" alt="Curebound" width="50%" height="50%"/>
