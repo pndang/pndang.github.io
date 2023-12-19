@@ -12,7 +12,7 @@ title: My meaningful moments
 
 <br>
 
-- Memorandum of Understanding Signing Ceremony between Vietnam and the USA, featuring the U.S. Consulate General in HCM City, American Planning Association-International Division (APAID), Vietnam Urban Planning and Development Association (VUPDA), Professor Bill Anderson (UCSD USP), Ms. Mai Nguyen (MIT), and others.
+- Memorandum of Understanding Signing Ceremony between Vietnam and the USA, featuring the U.S. Consulate General in HCM City, American Planning Association-International Division (APAID), Vietnam Urban Planning and Development Association (VUPDA), Professor Bill Anderson (UCSD USP), Ms. Mai Nguyen (MIT), and others. Event follows the elevation of United States-Vietnam relations to a <b>comprehensive strategic partnership</b>.
 - [Article](https://quyhoachdothi.com/en/announcement-vupda-signed-a-memorandum-of-understanding-with-the-american-planning-association/)
 
 <br>
