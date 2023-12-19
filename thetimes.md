@@ -8,7 +8,7 @@ title: My meaningful moments
 
 <br>
 
-<embed type="image/jpg" src="assets/thetimes/c,evc.jpg" alt="Chancellor and Exec. Vice Chancellor" width="50%" height="50%"/>
+<embed type="image/jpg" src="assets/thetimes/cnevc.jpg" alt="Chancellor and Exec. Vice Chancellor" width="50%" height="50%"/>
 - Chancellor Pradeep Khosla and Executive Vice Chancellor Elizabeth Simmons
 
 <br>
