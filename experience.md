@@ -34,10 +34,30 @@ Mentors: [Dr. Feiyang Sun](https://usp.ucsd.edu/people/faculty/profiles/sun-feiy
 <br>
 
 <div class="greeting-container"> 
+  <img src="assets/biokind.png" alt="Biokind Analytics" class="avatar" />
+  <p><strong><br>President & Data Analyst
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Sep 2022 - Present</strong><em><br>La Jolla, California
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Part-time</em></p>
+</div>
+
+Organization website: [Biokind Analytics](https://www.biokind.org/)
+
+- Manage organizational leadership, budget, marketing, outreach, and recruitment activities
+- Collaborate with local healthcare non-profits throughout San Diego to discuss potential avenues for data science to improve insights generation, operational efficiency, impact, outreach, client satisfaction, return on investment, and data systems and use case designs
+- Oversee and participate in student data science projects to ensure quality, timely delivery, and meeting clients' expectations; facilitating opportunities for students to apply academic training in impactful, real-world scenarios
+- Collaborate with clients to analyze complex operational/financial datasets in identifying key metrics and actionable insights, leading to improved client understanding of programs, initiatives, research grants performance, and furthered clients mission as data-driven organizations
+- Organize discussions and meetings with university teaching faculty, department advisors, and non-profit representatives
+- Communicate opportunities in public health and data science, including informational and engagement events, to chapter members
+
+<br>
+
+<div class="greeting-container"> 
   <img src="assets/jacobs.png" alt="Jacobs School of Engineering" class="avatar" />
   <p><strong><br>Data Science Trainee in Niema Lab
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Sep 2022 - Present</strong><em><br>La Jolla, California
+  Sep 2022 - Oct 23</strong><em><br>La Jolla, California
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Fellowship</em></p>
 </div>
@@ -56,26 +76,6 @@ Mentor: [Dr. Niema Moshiri](http://niema.net/)
 - Attained promising predictive performance, exceeding 87% accuracy across diverse evaluation metrics, in accurately predicting breast cancer recurrence status
 - Implemented and assessed solutions to handle imbalanced data for reliable predictions
 - Honored with a nomination by Dr. Moshiri to deliver a presentation at UCSD’s 36th Annual Undergrad Research Conference
-
-<br>
-
-<div class="greeting-container"> 
-  <img src="assets/biokind.png" alt="Biokind Analytics" class="avatar" />
-  <p><strong><br>President & Data Analyst
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Sep 2022 - Present</strong><em><br>La Jolla, California
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Part-time</em></p>
-</div>
-
-Organization website: [Biokind Analytics](https://www.biokind.org/)
-
-- Manage organizational leadership, budget, marketing, outreach, and recruitment activities
-- Collaborate with local healthcare non-profits throughout San Diego to discuss potential avenues for data science to improve insights generation, operational efficiency, impact, outreach, client satisfaction, return on investment, and data systems and use case designs
-- Oversee and participate in student data science projects to ensure quality, timely delivery, and meeting clients' expectations; facilitating opportunities for students to apply academic training in impactful, real-world scenarios
-- Collaborate with clients to analyze complex operational/financial datasets in identifying key metrics and actionable insights, leading to improved client understanding of programs, initiatives, research grants performance, and furthered clients mission as data-driven organizations
-- Organize discussions and meetings with university teaching faculty, department advisors, and non-profit representatives
-- Communicate opportunities in public health and data science, including informational and engagement events, to chapter members
 
 <br>
 
