@@ -6,5 +6,5 @@ title: My meaningful moments
 
 1. 
 
-<img src="assets/thetimes/bevfruto.pnd" alt="Bev Fruto"/>
+<embed type="image/png" src="assets/thetimes/bevfruto.png" alt="Bev Fruto"/>
 - Conference coordinator Beverly Fruto
