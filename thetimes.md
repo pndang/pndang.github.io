@@ -4,7 +4,7 @@ title: My meaningful moments
 
 <br>
 
-5. <b>Vietnam x USA</b> (November 20, 2023)
+<b>Vietnam x USA</b> (November 20, 2023)
 
 <br>
 
@@ -17,7 +17,7 @@ title: My meaningful moments
 
 <br>
 
-4. <b>DSA Data Science In Sports Event</b> (November 9, 2023)
+<b>DSA Data Science In Sports Event</b> (November 9, 2023)
 
 <br>
 
@@ -31,7 +31,7 @@ title: My meaningful moments
 
 <br>
 
-3. <b>ULI Fall Meeting</b> (November 1, 2023)
+<b>ULI Fall Meeting</b> (November 1, 2023)
 
 <br>
 
@@ -40,7 +40,7 @@ title: My meaningful moments
 
 <br>
 
-2. <b>36th Annual Undergrad Research Conference</b> (April 22, 2023)
+<b>36th Annual Undergrad Research Conference</b> (April 22, 2023)
 
 <br>
 
@@ -54,7 +54,7 @@ title: My meaningful moments
 
 <br>
 
-1. <b>Curebound Equities in Cancer Research + Care Event</b> (April 18, 2023)
+<b>Curebound Equities in Cancer Research + Care Event</b> (April 18, 2023)
 
 <br>
 
