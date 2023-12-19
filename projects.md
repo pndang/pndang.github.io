@@ -4,7 +4,7 @@ title: Projects
 
 <br>
 
-### Data Science Projects
+**Data Science Projects**
 
 <br>
 
@@ -44,7 +44,7 @@ title: Projects
 
 <br>
 
-### Real Estate / Urban Planning Projects
+**Real Estate / Urban Planning Projects**
 
 <br>
 
