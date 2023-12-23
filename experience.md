@@ -49,7 +49,7 @@ Organization website: [Biokind Analytics](https://www.biokind.org/)
 - Oversee and participate in student data science projects to ensure quality, timely delivery, and meeting clients' expectations; facilitating opportunities for students to apply academic training in impactful, real-world scenarios
 - Collaborate with clients to analyze complex operational/financial datasets in identifying key metrics and actionable insights, leading to improved client understanding of programs, initiatives, research grants performance, and furthered clients mission as data-driven organizations
 - Organize discussions and meetings with university teaching faculty, department advisors, and non-profit representatives
-- Communicate opportunities in public health and data science, including informational and engagement events, to chapter members
+- Identify informational and engagement events in public health and data science for referral to chapter members
 
 <br>
 
