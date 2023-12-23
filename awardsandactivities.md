@@ -43,7 +43,7 @@ title: More about me
 ## Activities and Hobbies
 
 - <b>Active campus involvement</b>: Newman Catholic Community at UCSD, Intramural Sports, UCSD Cycling, Mentor Collective
-- <b>Etkin Scholar</b> at [Urban Land Institute-San Diego/Tijuana](https://sandiego-tijuana.uli.org/)
+- <b>Etkin Scholar</b> and Associate Member at [Urban Land Institute-San Diego/Tijuana](https://sandiego-tijuana.uli.org/)
     - Endorsements: [Mr. Todd Weaver, CPM, CCIM](https://synergycre.com/); [UC San Diego Department of Urban Studies & Planning](https://usp.ucsd.edu/)
     - "ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world." With the mission of shaping "the future of the built environment for transformative impact in communities worldwide."
 - Previous <b>Research Scholar</b> at Semiconductor Research Corporation Research Scholars Program
