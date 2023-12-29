@@ -2,10 +2,7 @@
 ---
 ## About me
 
-From the San Francisco Bay Area, born and raised in Vietnam 🇻🇳
-
-I am a 3rd-year student studying [Data Science](https://datascience.ucsd.edu/) and [Real Estate](https://usp.ucsd.edu/), with a planned minor in urban studies and planning at [University of California San Diego](https://www.ucsd.edu). My goal is to find a nexus between technology and urban design to accelerate innovation for urban planning in making prosperous, attractive, safe, livable, affordable, and climate-resilient urban spaces.
-
+From the San Francisco Bay Area, born and raised in Vietnam. Third year undergrad studying data science and real estate and development, with a minor in urban studies and planning at UC San Diego. Possesses extensive experience in data-driven technologies, particularly statistics, machine learning, NLP, business intelligence, urban digitalization, IoT, and data ethics. Real estate domains of interest/specialty include CRE pro forma analysis, property management, mixed-use and transit-oriented development, affordable housing, and green building. An eager, adaptive, and thoughtful young professional with a multidisciplinary and entrepreneurial record of leadership and extracurricular activities, fostering a career synergizing technology and real estate. Always open to network, quality friendships, new opportunities, and discussions of Vietnam and Asia Pacific!
 
 ## Focuses and Interests
 
