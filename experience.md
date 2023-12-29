@@ -22,7 +22,7 @@ Real Estate + Data Science experiential learning fellowship with the Urban Studi
 Mentors: [Dr. Feiyang Sun](https://usp.ucsd.edu/people/faculty/profiles/sun-feiyang.html), [Dr. Mirle Rabinowitz-Bussell](https://usp.ucsd.edu/people/faculty/profiles/rabinowitz-bussell.html)
  
 - Identify and report policy incentives and cost factors relevant to the site context, opportunities, and constraints of affordable housing projects across the United States
-- Attend meetings and events with industry professionals at the Urban Land Institute to learn practical insights into the current market feasibility of affordable housing projects, with emphasis on LIHTC and ADUs
+- Attend meetings and events with industry professionals at the Urban Land Institute to learn practical insights into the current market feasibility of affordable housing projects, with emphasis on LIHTC and ADUs; provided research team with useful empirical information in accordance with the relevant obstacles facing planners and developers 
 - Received departmental sponsorship to get involved and network with the San Diego Green Building Council to study state-of-the-art green building techniques and ways to integrate green building with affordable housing
 
 <b>Data Science Fellow</b>
