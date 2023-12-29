@@ -13,7 +13,7 @@ From the San Francisco Bay Area, born and raised in Vietnam. Third year undergra
 - Predictive analysis, text/image analysis, automated data labeling, and computer vision
 
 ### Data Engineering
-- Cloud computing at scale, data systems/pipelines development for data acquisition/storage/organization/preprocessing
+- ML feature engineering/selection, cloud computing at scale, data systems/pipelines development for data acquisition/storage/organization/preprocessing
 
 ### Real Estate & Development
 - Residential (multifamily, mixed-use), commercial, property management, affordable housing, green building, transit-oriented development, urban planning, urban economic development
