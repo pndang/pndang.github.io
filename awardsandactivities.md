@@ -43,9 +43,13 @@ title: More about me
 ## Activities and Hobbies
 
 - <b>Active campus involvement</b>: Newman Catholic Community at UCSD, Intramural Sports, UCSD Cycling, Mentor Collective
+- <b>Designer in Residence</b> at [World Design Capital San Diego Tijuana 2024](https://wdc2024.org/)
+    - Work alongside the Design-to-Action Lead to coordinate, supervise, and advise for the optimal execution and success of San Diego-Tijuana international collaboration projects, primarily within the Science & Technology Network focus area. Simultaneously, provide data science expertise to assist technical projects and placemaking insights for social projects to extend the regional trolley system in transit development and identify suitable construction materials for sustainability projects in green building.
 - <b>Etkin Scholar</b> and Associate Member at [Urban Land Institute-San Diego/Tijuana](https://sandiego-tijuana.uli.org/)
     - Endorsements: [Mr. Todd Weaver, CPM, CCIM](https://synergycre.com/); [UC San Diego Department of Urban Studies & Planning](https://usp.ucsd.edu/)
     - "ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world." With the mission of shaping "the future of the built environment for transformative impact in communities worldwide."
+- <b>Student Member</b> at [Institute of Real Estate Management](https://www.irem.org/)
+    - IREM San Diego Chapter
 - Previous <b>Research Scholar</b> at Semiconductor Research Corporation Research Scholars Program
     - Worked on projects related to the PRISM Center at UCSD, supported by SRC, including modeling of COVID-19 variants preference over time and exploratory/predictive analytics for precision medicine in Personalized and Secure Drug Discovery. Further details can be found under the involvement description with Niema Lab at Jacobs School of Engineering
 - Previous <b>Officer</b> and <b>Player</b> on [UCSD Men's Club Water Polo Team](https://recreation.ucsd.edu/competitive-sports/m-water-polo/) (Sep 2021 - Sep 2023)
