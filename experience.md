@@ -119,7 +119,7 @@ A data science mentorship program jointly organized by Deloitte and the Haliciog
 - Collaborated closely with a dedicated mentor from Deloitte, receiving personalized guidance and support on a weekly basis
 - Presented findings to an audience of Deloitte practitioners and advisors from the Halicioglu Data Science Institute
 
-Assumed a leadership position within the project group, taking charge of task assignments, scheduling meetings, and cultivating a cohesive project story when our team needed leadership; fostering a positive, motivated team environment, and on-time delivery
+Assumed a leadership position within the project group, taking charge of task assignments, scheduling meetings, and cultivating a cohesive project story when our team needed leadership; fostering a positive, motivated team environment, on-time delivery, and quality assurance.
 
 <br>
 
