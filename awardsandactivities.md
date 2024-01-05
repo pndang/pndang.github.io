@@ -50,6 +50,12 @@ title: More about me
     - "ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world." With the mission of shaping "the future of the built environment for transformative impact in communities worldwide."
 - <b>Student Member</b> at [Institute of Real Estate Management](https://www.irem.org/)
     - IREM San Diego Chapter
+- <b>Student Member</b> at [NAIOP - Commercial Real Estate Development Association](https://www.naiop.org/)
+    - NAIOP San Diego Chapter
+    - Sponsored by UC San Diego Urban Studies & Planning Department
+- <b>Professional Member</b> at [American Planning Association](https://www.planning.org/)
+    - California San Diego Section
+    - International and Technology Division
 - Previous <b>Research Scholar</b> at Semiconductor Research Corporation Research Scholars Program
     - Worked on projects related to the PRISM Center at UCSD, supported by SRC, including modeling of COVID-19 variants preference over time and exploratory/predictive analytics for precision medicine in Personalized and Secure Drug Discovery. Further details can be found under the involvement description with Niema Lab at Jacobs School of Engineering
 - Previous <b>Officer</b> and <b>Player</b> on [UCSD Men's Club Water Polo Team](https://recreation.ucsd.edu/competitive-sports/m-water-polo/) (Sep 2021 - Sep 2023)
