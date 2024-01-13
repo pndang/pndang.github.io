@@ -29,7 +29,7 @@ Mentors: [Dr. Feiyang Sun](https://usp.ucsd.edu/people/faculty/profiles/sun-feiy
 
 - Identified data sources across the local, city, and county levels for analytical purposes, domains include land use, utilities, parking, transit networks, historical districts, balanced community development areas (TIF, CDBG, CIP), public health, and project-level public data
 - Conducted a literature review of basic to novel technical real estate data science applications, ranging from hedonic price models to neural networks
-- Developed an algorithm to parse  parse property data from CoStar into a tabular format for machine learning research purposes
+- Developed an algorithm to retrieve and parse property data from CoStar into a tabular format for machine learning research purposes
 
 <br>
 
