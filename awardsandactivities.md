@@ -55,7 +55,7 @@ title: More about me
     - Sponsored by UC San Diego Urban Studies & Planning Department
 - <b>Professional Member</b> at [American Planning Association](https://www.planning.org/)
     - California San Diego Section
-    - International and Technology Division
+    - International and Technology Division - joined by referral from [Mr. Bill Anderson](https://usp.ucsd.edu/people/faculty/profiles/anderson-william.html), FAICP, Professor at UC San Diego, and former national President of the American Planning Association (2013-2015)
 - Previous <b>Research Scholar</b> at Semiconductor Research Corporation Research Scholars Program
     - Worked on projects related to the PRISM Center at UCSD, supported by SRC, including modeling of COVID-19 variants preference over time and exploratory/predictive analytics for precision medicine in Personalized and Secure Drug Discovery. Further details can be found under the involvement description with Niema Lab at Jacobs School of Engineering
 - Previous <b>Officer</b> and <b>Player</b> on [UCSD Men's Club Water Polo Team](https://recreation.ucsd.edu/competitive-sports/m-water-polo/) (Sep 2021 - Sep 2023)
