@@ -8,6 +8,13 @@ title: Projects
 
 <br>
 
+**Statistical Inference for U.S. Presidential Elections**&nbsp;(Team Project)
+
+- A detailed analysis of twelve elections for the U.S. presidency between 1976 and 2020 for a deeper understanding of their nature; analyses performed include exploratory, goodness of fit (LRTs), similarity/dissimilarity analysis of distributions, predictive (ML), plus a fun interlude mingling of Bayesian and classical (frequentist) statistics.
+- Links: [Paper](https://drive.google.com/file/d/1znX3eHU5YJbF39quSWPxsiRrxYYhjMEi/view?usp=sharing), [Code](https://github.com/pndang/MATH189/tree/main/Project)
+
+<br>
+
 **OPUBOD - Occupancy Prediction Using Building Operation Data**&nbsp;(Personal Project)
 
 - A time-series machine learning project to discover useful building operation metrics for predicting occupant count; examined models include linear regression, auto-regression, and recurrent neural nets, plus statistical analyses for feature selection.
@@ -22,7 +29,7 @@ title: Projects
 
 <br>
 
-**Solar-Powered Smart Lighting for Sustainable Living**&nbsp;(Personal Project)
+**Solar-Powered Smart Lighting for Sustainable Living**&nbsp;(Team Project)
 
 - Built a solar-powered data science IoT device capable of collecting live sensor data, adjusting lighting depending on environmental factors for energy efficiency, and sending data to a MySQL database using MCU on-board Wifi (synchronous communication).
 - Performed an analysis of solar charging voltage under different scenarios and developed a data processing script to query/transform/analyze/visualize data.
