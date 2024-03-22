@@ -6,6 +6,9 @@ title: More about me
 
 ## Honors, Awards, and Credentials
 
+### <strong>Emerging Innovator Award</strong> &nbsp;(Awarded April 2024)
+- This award honors a rising Urban Studies & Planning or Real Estate & Development senior who has demonstrated exceptional innovation (creative, possibly interdisciplinary, and/or cross-sector, forward-thinking approaches) in her/his/their academic work, research, campus-based or community-based roles, e.g., internships, student organizations, professional organizations, and project teams.
+
 ### <strong>LEED® Green Associate™</strong> 
 - Green Business Certification Inc. (GBCI)
 - U.S. Green Building Council
