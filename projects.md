@@ -4,7 +4,7 @@ title: Projects
 
 <br>
 
-[**Data Science Projects**](https://pndang.con/datascienceprojects/)
+[**Data Science Projects**](https://pndang.com/datascienceprojects/)
 
 <br>
 
