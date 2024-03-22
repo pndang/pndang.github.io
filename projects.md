@@ -37,6 +37,13 @@ title: Projects
 
 <br>
 
+**Exploratory and Predictive Analytics for Precision Medicine**&nbsp;(Team Project)
+
+- A data science project for Personalized and Secure Drug Discovery supported by the Semiconductor Research Corp. Scholars Program and PRISM Center at UCSD, mentored by Dr. Niema Moshiri. The project combines intensive exploratory and predictive analyses to identify patterns and predict breast cancer recurrence using biomarkers, medical, and lifestyle data from over 3,000 patients.
+- Links: [Presentation](https://drive.google.com/file/d/1S4r3uNXfUZCjddqBi0ThzqL44MoJ1_NF/view?usp=sharing), [Code](https://github.com/pndang/Project_WHEL)
+
+<br>
+
 **Illuminating Cognizance**&nbsp;(Personal Project)
 
 - A comprehensive look into major power outages in the U.S. to assess statistical relationships (part 1) through exploratory analysis, hypothesis testing, data missingness assessment, and predictive power (part 2) using supervised machine learning models and feature engineering, built in pipelines with evaluation comprising diverse accuracy metrics and cogent assessments.
@@ -52,6 +59,13 @@ title: Projects
 <br>
 
 **Real Estate / Urban Planning Projects**
+
+<br>
+
+**H2 Hillcrest**&nbsp;(Personal Project)
+
+- A design-focused proposal for a state-of-the-art urban infill, mixed-use redevelopment project in Hillcrest, San Diego, to address housing needs, support multimodal transportation, and enhance the local economy with strategic commercial uses. Led by human-centered and climate-resilient placemaking values, with in-depth considerations for the lifestyles and culture inherent to Hillcrest.
+- Links: [Poster](https://drive.google.com/file/d/1QbuCHodPK05XBnUn_V66lBCUNjaVYh51/view?usp=sharing)
 
 <br>
 
