@@ -2,6 +2,8 @@
 title: Projects
 ---
 
+<br>
+
 **Real Estate / Urban Planning Projects**
 
 <br>
