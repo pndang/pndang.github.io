@@ -17,7 +17,7 @@ My letter of recommendation from Professor Todd Weaver, CPM, CCIM
 
 <br>
 
-Feedback from Dr. Niema Moshiri on my fellowship work with UCSD Computer Science & Engineering
+Comments from Dr. Niema Moshiri on my fellowship work with UCSD Computer Science & Engineering
 
 <embed src="assets/ProfessorMoshiriFeedback.pdf" type="application/pdf" width="100%" height="820">
 
