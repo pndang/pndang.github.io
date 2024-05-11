@@ -15,7 +15,7 @@ title: More about me
 - <b>Credential ID</b>: 11573596-GREEN-ASSOCIATE
 - [Certificate](https://drive.google.com/file/d/1YU757V6byP5l1xHB4kHaaU5J10i-yP-G/view?usp=sharing)
 
-### <strong>USS PACE Fellow Scholarship (2nd)</strong> &nbsp;(Awarded Sep 2023)
+### <strong>UCSD USS PACE Fellow Scholarship (2nd)</strong> &nbsp;(Awarded Sep 2023)
 
 ### <strong>UC San Diego Research Conference Nomination</strong> &nbsp;
 
@@ -24,7 +24,7 @@ title: More about me
 - Mentor: Dr. Niema Moshiri, Ph.D. - Partner: Leena Kang
 - [Abstract](https://docs.google.com/document/d/16UkCG_ptWlpY3uPCGznbqmvEvIEiK-RRCa2PS1CQOdI/edit?usp=sharing), [Presentation](https://docs.google.com/presentation/d/1aqVowjzhOdr6CZl97x-Wt2LKBY4JZqP8AvenDN7Zxuw/edit?usp=sharing)
 
-### <strong>USS PACE Fellow Scholarship</strong> &nbsp;(Awarded Sep 2022)
+### <strong>UCSD USS PACE Fellow Scholarship</strong> &nbsp;(Awarded Sep 2022)
 
 ### <strong>Member of Roosevelt College Honors Program at UC San Diego</strong>
 
