@@ -23,8 +23,8 @@ title: Projects
 
 Personal Portfolio:
 
-<embed src="assets/PDang_CityTwinsPortfolio.pdf" type="application/pdf" width="100%" height="999">
+<embed src="assets/PDang_CityTwinsPortfolio.pdf" type="application/pdf" width="100%" height="555">
 
 Team Poster:
 
-<embed src="assets/QUalcomm_CCT_Poster.pdf" type="application/pdf" width="100%" height="999">
+<embed src="assets/Qualcomm_CCT_Poster.pdf" type="application/pdf" width="100%" height="999">
