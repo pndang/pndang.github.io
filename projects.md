@@ -27,7 +27,7 @@ Personal Portfolio:
 
 Team Poster:
 
-<embed src="assets/Qualcomm_CCT_Poster.pdf" type="application/pdf" width="100%" height="711">
+<embed src="assets/Qualcomm_CCT_Poster.pdf" type="application/pdf" width="100%" height="611">
 
 <br>
 
