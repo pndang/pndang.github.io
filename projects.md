@@ -28,3 +28,11 @@ Personal Portfolio:
 Team Poster:
 
 <embed src="assets/Qualcomm_CCT_Poster.pdf" type="application/pdf" width="100%" height="555">
+
+<br>
+
+**D3 San Diego Multifamily Visualizer**&nbsp;(Team Project)
+
+- A D3.js web app to answer the question “Which San Diego submarket for your next multifamily investment?”, data queried from CoStar is visualized on a choropleth map of San Diego, highlighting multifamily vacancy rates, built/renovation year, parking/unit 
+
+- Links: [Web app](https://pndang.com/d3-sd-multifamily-visualizer/)
