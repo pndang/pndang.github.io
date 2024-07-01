@@ -41,7 +41,7 @@ title: Projects
 
 - Built a solar-powered data science IoT device capable of collecting live sensor data, adjusting lighting depending on environmental factors for energy efficiency, and sending data to a MySQL database using MCU on-board Wifi (synchronous communication).
 - Performed an analysis of solar charging voltage under different scenarios and developed a data processing script to query/transform/analyze/visualize data.
-- Links: [Presentation](hhttps://drive.google.com/file/d/1i84thb4oJFo6m8DlrcVtT5NgY6UpFwib/view?usp=sharing), [Code](https://github.com/pndang/Intro_IoT)
+- Links: [Presentation](https://drive.google.com/file/d/1i84thb4oJFo6m8DlrcVtT5NgY6UpFwib/view?usp=sharing), [Code](https://github.com/pndang/Intro_IoT)
 
 <br>
 
