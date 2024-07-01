@@ -8,6 +8,14 @@ title: Projects
 
 <br>
 
+**Who's Dominating the Game**&nbsp;(Team Project)
+
+- A D3.js + Svelte web app showing a temporal analysis of console game genres and publishers’ prevalence by sales and crit scores 
+
+- Links: [Web app](https://pndang.com/whos-dominating-the-game/)
+
+<br>
+
 **Statistical Inference for U.S. Presidential Elections**&nbsp;(Team Project)
 
 - A detailed analysis of twelve elections for the U.S. presidency between 1976 and 2020 for a deeper understanding of their nature; analyses performed include exploratory, goodness of fit (LRTs), similarity/dissimilarity analysis of distributions, predictive (ML), plus a fun interlude mingling of Bayesian and classical (frequentist) statistics.
