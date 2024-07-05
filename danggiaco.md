@@ -45,7 +45,7 @@
 <body>
     <div class="container">
         <div class="logo">
-            <img src="assets/thetimes/dg&co.png" alt="Company Logo">
+            <img src="assets/dg&co.png" alt="Company Logo">
         </div>
         <div class="text-container">
             <div class="company-title">DANGGIACO</div>
