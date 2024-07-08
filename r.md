@@ -18,4 +18,4 @@ title: Resumes
 
 **All in One resume**
 
-<p>updating!</p>s
+<p>updating!</p>
