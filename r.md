@@ -12,7 +12,7 @@ title: Resumes
 
 **Data Science-oriented resume**
 
-<embed src="assets/PhuDang_DataSciecneResume.pdf" type="application/pdf" width="100%" height="999">
+<embed src="assets/PhuDang_DataScienceResume.pdf" type="application/pdf" width="100%" height="999">
 
 <br>
 
