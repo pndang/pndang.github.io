@@ -18,4 +18,4 @@ title: Resumes
 
 **All in One resume**
 
-<p>updating!</p>
+<embed src="assets/PhuDang_Resume.pdf" type="application/pdf" width="100%" height="999">
