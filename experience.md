@@ -7,8 +7,30 @@ title: Technical and Leadership Experience
 <br>
 
 <div class="greeting-container"> 
-  <img src="assets/wdo.jpeg" alt="Biokind Analytics" class="avatar" />
-  <p><strong><br>Housing Solutions Consultant & Desinger in Residence
+  <img src="assets/qualcomm.jpg" alt="Biokind Analytics" class="avatar" />
+  <p><strong><br>Applied AI & Junior Software Developer <em>(Cognitive City Twins)</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Jan 2024 - Present</strong><em><br>La Jolla, California
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Part-time</em></p>
+</div>
+
+Organization website: [Qualcomm Institute](https://qi.ucsd.edu/)
+
+- Implemented scalable data integration workflows using blueprints and structs in Unreal Engine 5
+- Developed data viz apps using UE5 objects/instanced static meshes with dynamic spawning, scaling, georeferencing
+- Implemented Cesium cartographic polygons, raster overlays, and color blending across material layers for tile coloring
+- Integrated Google Maps API for a realistic global world as the base for visualization needs in real estate and urban planning
+- Utilized Datasmith Exporter plugin to integrate Cesium in Unreal Engine with SketchUp Pro for property modeling
+- Built interactive, 3D widgets to display property/urban data, emphasizing user experience and future VR integration
+- Developed a framework for building digital twins of buildings in the real world for future placement in the city twins
+- Aggregated a large database of the San Diego-Carlsbad region data for future visualization in the cognitive city twins
+
+<br>
+
+<div class="greeting-container"> 
+  <img src="assets/wdo.jpg" alt="Biokind Analytics" class="avatar" />
+  <p><strong><br>Housing Solutions Consultant & Designer in Residence
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Jan 2024 - June 2024</strong><em><br>San Diego, California
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
