@@ -116,7 +116,7 @@ Mentor: [Dr. Niema Moshiri](http://niema.net/)
 - Reduced initial runtime by 97% (5s to sub-0.1s) with caching/memoization and efficient data structure implementation
 - Benchmarked data compression techniques to optimize serialization efficiency and expedite loading speed
 - Wrote 7 research notebooks to uncover patterns in 30+ large-scale datasets involving 3000+ cancer patients
-- Exceeded 87% accuracy across diverse evaluation metrics, in accurately predicting breast cancer recurrence status
+- Exceeded 87% accuracy across diverse evaluation metrics in accurately predicting breast cancer recurrence status
 - Analyzed disparities and data collection gaps to ensure ethical and responsible data science practices
 - Honored with a nomination by Dr. Moshiri to deliver a presentation at UCSD’s 36th Annual Undergrad Research Conference
 - Special commendation post by the Semiconductor Research Corporation on LinkedIn
