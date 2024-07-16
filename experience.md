@@ -156,10 +156,10 @@ Exceeded internship expectations by proactively implementing an automated data l
 
 Company website: [Deloitte Business Consulting & Services](https://www2.deloitte.com/global/en/services/consulting-deloitte.html)
 
-A data science mentorship program jointly organized by Deloitte and the Halicioglu Data Science Institute
+A data science mentorship program jointly organized by Deloitte and the Halicioglu Data Science Institute.
 
 - Utilized ARIMA models to generate employment metric forecasts and predict market behaviors due to Covid-19
-- Conducted in-depth analysis to extract actionable insights uding multiple linear regression, exploratory data analysis (EDA), and visualization
+- Conducted in-depth analysis to extract actionable insights using multiple linear regression, exploratory data analysis (EDA), and visualization
 - Collaborated closely with a dedicated mentor from Deloitte, receiving personalized guidance and support on a weekly basis
 - Presented findings to an audience of Deloitte practitioners and advisors from the Halicioglu Data Science Institute
 
