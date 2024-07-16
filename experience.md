@@ -17,6 +17,8 @@ title: Technical and Leadership Experience
 
 Organization website: [Qualcomm Institute](https://qi.ucsd.edu/)
 
+Contributed to developing digital twin platforms for UC San Diego, Chula Vista Bayfront, and Hollywood's Vinyl District.
+
 - Implemented scalable data integration workflows using blueprints and structs in Unreal Engine 5
 - Developed data viz apps using UE5 objects/instanced static meshes with dynamic spawning, scaling, georeferencing
 - Implemented Cesium cartographic polygons, raster overlays, and color blending across material layers for tile coloring
