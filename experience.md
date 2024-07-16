@@ -7,6 +7,24 @@ title: Technical and Leadership Experience
 <br>
 
 <div class="greeting-container"> 
+  <img src="assets/wdo.jpeg" alt="Biokind Analytics" class="avatar" />
+  <p><strong><br>Housing Solutions Consultant & Desinger in Residence
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Jan 2024 - June 2024</strong><em><br>San Diego, California
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Part-time</em></p>
+</div>
+
+Organization website: [WDC](https://wdc2024.org/)
+
+- Advised the ADUGenius project on ADUs as an innovative housing solution, covering financing structures, tax benefits, saving strategies, building costs, ordinance adoption, setbacks, myths, designs, sustainability, and useful policies/programs
+- Served a secretary role in meetings and correspondence between stakeholders from the United States, Mexico, the UC San Diego Design Lab, and impact project leads to assist San Diego-Tijuana international collaboration projects
+- Performed administrative duties for the Science & Tech Network, including event coordination, media design, monthly 
+updates to the World Design Capital committee, event MC/moderator at events with community members & project leads
+
+<br>
+
+<div class="greeting-container"> 
   <img src="assets/usplogo.jpg" alt="UCSD Urban Studies & Planning" class="avatar" />
   <p><strong><br>Fellow Scholar
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,19 +35,20 @@ title: Technical and Leadership Experience
 
 Real Estate + Data Science experiential learning fellowship with the Urban Studies & Planning Department and Homelessness Hub at UC San Diego, under the ULI H2H Mission Priority Initiative.
 
-<b>Affordable Housing Assistant Research Fellow</b>
+<b>Affordable Housing Research Assistant</b>
 
 Mentors: [Dr. Feiyang Sun](https://usp.ucsd.edu/people/faculty/profiles/sun-feiyang.html), [Dr. Mirle Rabinowitz-Bussell](https://usp.ucsd.edu/people/faculty/profiles/rabinowitz-bussell.html)
  
-- Identify and report policy incentives and cost factors relevant to the site context, opportunities, and constraints of affordable housing projects across the United States
-- Attend meetings and events with industry professionals at the Urban Land Institute to learn practical insights into the current market feasibility of affordable housing projects, with emphasis on LIHTC and ADUs; provided research team with useful empirical information in accordance with the relevant obstacles facing planners and developers 
-- Received departmental sponsorship to get involved and network with the San Diego Green Building Council to study state-of-the-art green building techniques and ways to integrate green building with affordable housing
+- Reported affordable housing policy incentives and cost factors, emphasizing public improvements and tax incentives
+- Networked with industry professionals to study affordable housing market feasibility, focused on LIHTC and ADUs
+- Received sponsorship to network with SDGBC to study green building techniques and integration with affordable housing
+
 
 <b>Data Science Fellow</b>
 
-- Identified data sources across the local, city, and county levels for analytical purposes, domains include land use, utilities, parking, transit networks, historical districts, balanced community development areas (TIF, CDBG, CIP), public health, and project-level public data
-- Conducted a literature review of basic to novel technical real estate data science applications, ranging from hedonic price models to neural networks
-- Developed an algorithm to retrieve and parse property data from CoStar into a tabular format for machine learning research purposes
+- Programmed a bespoke algorithm to parse property data from CoStar into a tabular format for non-commercial purposes
+- Applied statistics and machine learning on over 5000 LIHTC projects to derive factors influencing fund allocation
+- Utilized analysis methods for social science: feature engineering, clustering, attribute stratification, marginal error analysis
 
 <br>
 
