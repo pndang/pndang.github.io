@@ -2,18 +2,16 @@
 title: Technical and Leadership Experience
 ---
 
-updating!
-
-<!-- <em>"Links to disclosable code, presentations, and deliverables are available on my LinkedIn profile"</em>
+<em>"Links to disclosable code, presentations, and deliverables are available on my LinkedIn profile"</em>
 
 <br>
 
 <div class="greeting-container"> 
-  <img src="assets/qualcomm.jpg" alt="Biokind Analytics" class="avatar" />
-  <p><strong><br>Applied AI & Junior Software Developer <em>(Cognitive City Twins)</em>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/qualcomm.jpeg" alt="Biokind Analytics" class="avatar" />
+  <p><strong><br>Applied AI & Jr. Software Developer <em>(Cognitive City Twins)</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Jan 2024 - Present</strong><em><br>La Jolla, California
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Part-time</em></p>
 </div>
 
@@ -31,17 +29,39 @@ Organization website: [Qualcomm Institute](https://qi.ucsd.edu/)
 <br>
 
 <div class="greeting-container"> 
+  <img src="assets/biokind.png" alt="Biokind Analytics" class="avatar" />
+  <p><strong><br>President & Lead Data Scientist
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Sep 2022 - Present</strong><em><br>La Jolla, California
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Part-time</em></p>
+</div>
+
+Organization website: [Biokind Analytics](https://www.biokind.org/)
+
+- Manage organizational leadership, budget, marketing, outreach, public relations, and recruitment activities
+- Worked with local healthcare non-profits in San Diego on potential avenues for data science to improve operations. Targeting ways to help clients improve efficiency, impact, outreach, client satisfaction, ROI, data systems/use case designs
+- Oversee and participate in student data science projects to ensure quality, timely delivery, and meeting clients' expectations while upkeeping self; facilitating opportunities for students to apply academic training in impactful, real-world scenarios
+- Organize correspondence between members, university faculty, department advisors, and non-profit representatives
+- Analyzed large, archived and operational datasets to identify key metrics and actionable insights, leading to improved client understanding of programs, initiatives, grants performance; furthered clients’ mission as data-driven organizations
+- Over $140 million in combined financial analyses performed, ranging from donations to research grants and charity events
+- Derived ground-truth insights to clients’ operation with statistical inference, reflected clients’ past operation, checked recent business decisions, and inform future decisions. Performed feature selection/engineering for informative attributes
+- Specialize in geo-/demographic, financial, operational & business strategies analyses, dashboarding, turning data into action
+
+<br>
+
+<div class="greeting-container"> 
   <img src="assets/wdo.jpg" alt="Biokind Analytics" class="avatar" />
   <p><strong><br>Housing Solutions Consultant & Designer in Residence
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Jan 2024 - June 2024</strong><em><br>San Diego, California
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Part-time</em></p>
 </div>
 
 Organization website: [WDC](https://wdc2024.org/)
 
-- Advised the ADUGenius project on ADUs as an innovative housing solution, covering financing structures, tax benefits, saving strategies, building costs, ordinance adoption, setbacks, myths, designs, sustainability, and useful policies/programs
+- Advised the ADUGenius project on ADUs as an innovative housing solution, covering financing structures, tax benefits, saving strategies (straight-line, cost segmented depreciation), building costs, ordinance adoption, setbacks, myths, designs, sustainability, and useful policies/programs
 - Served a secretary role in meetings and correspondence between stakeholders from the United States, Mexico, the UC San Diego Design Lab, and impact project leads to assist San Diego-Tijuana international collaboration projects
 - Performed administrative duties for the Science & Tech Network, including event coordination, media design, monthly 
 updates to the World Design Capital committee, event MC/moderator at events with community members & project leads
@@ -77,26 +97,6 @@ Mentors: [Dr. Feiyang Sun](https://usp.ucsd.edu/people/faculty/profiles/sun-feiy
 <br>
 
 <div class="greeting-container"> 
-  <img src="assets/biokind.png" alt="Biokind Analytics" class="avatar" />
-  <p><strong><br>President/Director & Data Analyst
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Sep 2022 - Present</strong><em><br>La Jolla, California
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Part-time</em></p>
-</div>
-
-Organization website: [Biokind Analytics](https://www.biokind.org/)
-
-- Manage organizational leadership, budget, marketing, outreach, and recruitment activities
-- Collaborate with local healthcare non-profits throughout San Diego to discuss potential avenues for data science to improve insights generation, operational efficiency, impact, outreach, client satisfaction, return on investment, and data systems and use case designs
-- Oversee and participate in student data science projects to ensure quality, timely delivery, and meeting clients' expectations; facilitating opportunities for students to apply academic training in impactful, real-world scenarios
-- Collaborate with clients to analyze complex operational/financial datasets in identifying key metrics and actionable insights, leading to improved client understanding of programs, initiatives, research grants performance, and furthered clients mission as data-driven organizations
-- Organize discussions and meetings with university teaching faculty, department advisors, and non-profit representatives
-- Identify informational and engagement events in public health and data science for referral to chapter members
-
-<br>
-
-<div class="greeting-container"> 
   <img src="assets/jacobs.png" alt="Jacobs School of Engineering" class="avatar" />
   <p><strong><br>Data Science Trainee in Niema Lab
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -109,16 +109,15 @@ Data science experiential learning fellowship with the Computer Science & Engine
 
 Mentor: [Dr. Niema Moshiri](http://niema.net/)
 
-- Developed an interactive Dash application for visualizing COVID-19 time-series data with variant segmentation
-- Programmed robust computational algorithms to dynamically and efficiently smooth data upon variable input parameters and update graph
-- Achieved a remarkable 97% reduction in initial runtime by implementing memoization and an efficient data structure for smoothing algorithm
-- Implemented and benchmarked data compression techniques to optimize serialization efficiency and expedite loading speed 
-- Wrote 7 research notebooks to uncover patterns in 30+ large-scale datasets involving 3000+ patients with varying breast cancer stages using scaled multivariate exploratory data analysis techniques
-- Conducted rigorous analysis and investigation of disparities and data collection gaps, demonstrating a commitment to ethical and responsible data science practices
-- Implemented robust false discovery correction to ensure the statistical significance and reliability of conclusions derived from multiple hypothesis tests 
-- Attained promising predictive performance, exceeding 87% accuracy across diverse evaluation metrics, in accurately predicting breast cancer recurrence status
-- Implemented and assessed solutions to handle imbalanced data for reliable predictions
+- Developed an interactive application to visualize Covid-19 time-series data with variant segmentation
+- Programmed a bespoke data-smoothing algorithm that selectively reads data upon user requests to optimize runtime
+- Reduced initial runtime by 97% (5s to sub-0.1s) with caching/memoization and efficient data structure implementation
+- Benchmarked data compression techniques to optimize serialization efficiency and expedite loading speed
+- Wrote 7 research notebooks to uncover patterns in 30+ large-scale datasets involving 3000+ cancer patients
+- Exceeded 87% accuracy across diverse evaluation metrics, in accurately predicting breast cancer recurrence status
+- Analyzed disparities and data collection gaps to ensure ethical and responsible data science practices
 - Honored with a nomination by Dr. Moshiri to deliver a presentation at UCSD’s 36th Annual Undergrad Research Conference
+- Special commendation post by the Semiconductor Research Corporation on LinkedIn
 
 <br>
 
@@ -136,7 +135,7 @@ Company website: [Going Solo IT Services & IT Consulting](https://goingsolo.com/
 - Implemented a character-based word embeddings model (char2vec) based on a recurrent neural network using Keras from TensorFlow, coupled with Scikit-learn for linear dimensionality reduction of vectors
 - Streamlined data labeling processes through the implementation of an automated Bayesian classifier, significantly improving efficiency
 - Leveraged API calls to query data from findl.com, allowing seamless access to essential information for analysis
-- Conducted comprehensive analysis of an S&P 500 stock and transformed insights into an interactive dashboard using Tableau, facilitating intuitive visualization and exploration of key metrics
+- Conducted comprehensive analysis of an S&P 500 company's stock/financials and transformed insights into an interactive dashboard using Tableau, facilitating intuitive visualization and exploration of key metrics
 - Demonstrated exceptional organizational skills by successfully coordinating projects and effectively managing team communication across 7+ time zones, ensuring smooth collaboration and timely delivery
 - Enhanced project management practices by refining and maintaining a dynamic PM dashboard in Google Sheets, enabling real-time progress tracking and streamlined reporting to supervisors
 
@@ -177,10 +176,12 @@ Assumed a leadership position within the project group, taking charge of task as
 
 Program website: [SPIS - Summer Program for Incoming Students](http://spis.ucsd.edu/)
 
-Introduction to coding in Python, programming concepts and algorithms
+Pre-college summer computer science program
 
-- Final Project: A web-app information filtering system that generates vehicle suggestions given a user's lifestyle following a decision tree
+- Final Project: A web-app that generates vehicle suggestions given a user's lifestyle following a decision tree
 - Programmed in Python and HTML for brower display of user interface
+
+Typed my first print(“Hello World”). Had zero clue what machine learning was, so I implemented a purely if-else decision tree to build a car recommender. Did manage to use Flask for front end display!
 
 <br>
 
@@ -204,4 +205,4 @@ I volunteered to be my swim team’s manager (and swimmer) during my senior year
 
 <em>Notable accomplishments:</em> 2018 JV Coach's Award, 2019 JV Valuable Swimmer Award, 2021 Varsity Swim Appreciation Award, 2021 Varsity Coaches Choice Award
 
-Fun fact: 4 awards given by 4 different coaches over 4 years -->
+Fun fact: 4 awards given by 4 different coaches over 4 years
