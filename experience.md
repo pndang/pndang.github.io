@@ -2,7 +2,9 @@
 title: Technical and Leadership Experience
 ---
 
-<em>"Links to disclosable code, presentations, and deliverables are available on my LinkedIn profile"</em>
+updating!
+
+<!-- <em>"Links to disclosable code, presentations, and deliverables are available on my LinkedIn profile"</em>
 
 <br>
 
@@ -31,7 +33,7 @@ Organization website: [Qualcomm Institute](https://qi.ucsd.edu/)
 <div class="greeting-container"> 
   <img src="assets/wdo.jpg" alt="Biokind Analytics" class="avatar" />
   <p><strong><br>Housing Solutions Consultant & Designer in Residence
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Jan 2024 - June 2024</strong><em><br>San Diego, California
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Part-time</em></p>
@@ -202,4 +204,4 @@ I volunteered to be my swim team’s manager (and swimmer) during my senior year
 
 <em>Notable accomplishments:</em> 2018 JV Coach's Award, 2019 JV Valuable Swimmer Award, 2021 Varsity Swim Appreciation Award, 2021 Varsity Coaches Choice Award
 
-Fun fact: 4 awards given by 4 different coaches over 4 years
+Fun fact: 4 awards given by 4 different coaches over 4 years -->
