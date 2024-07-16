@@ -45,9 +45,9 @@ Organization website: [Biokind Analytics](https://www.biokind.org/)
 - Worked with local healthcare non-profits in San Diego on potential avenues for data science to improve operations. Targeting ways to help clients improve efficiency, impact, outreach, client satisfaction, ROI, data systems/use case designs
 - Oversee and participate in student data science projects to ensure quality, timely delivery, and meeting clients' expectations while upkeeping self; facilitating opportunities for students to apply academic training in impactful, real-world scenarios
 - Organize correspondence between members, university faculty, department advisors, and non-profit representatives
-- Analyzed large, archived and operational datasets to identify key metrics and actionable insights, leading to improved client understanding of programs, initiatives, grants performance; furthered clients’ mission as data-driven organizations
-- Over $140 million in combined financial analyses performed, ranging from donations to research grants and charity events
-- Derived ground-truth insights to clients’ operation with statistical inference, reflected clients’ past operation, checked recent business decisions, and inform future decisions. Performed feature selection/engineering for informative attributes
+- Analyzed large, archived, and operational datasets to identify key metrics and actionable insights, leading to improved client understanding of programs, initiatives, and grants performance; furthered clients’ mission as data-driven organizations
+- Over $140 million in combisned financial analyses performed, ranging from donations to research grants and charity events
+- Derived ground-truth insights into clients’ operations with statistical inference, reflected clients’ past operations, checked recent business decisions, and informed future choices. Performed feature selection/engineering for informative attributes
 - Specialize in geo-/demographic, financial, operational & business strategies analyses, dashboarding, turning data into action
 
 <br>
