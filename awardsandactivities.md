@@ -53,7 +53,7 @@ title: More about me
 - <b>Developing Leader</b> at [NAIOP San Diego](https://www.naiop.org/) (Commercial Real Estate Development Association)
 - Others: <b>Student Member</b> at IREM San Diego and APA International + Technology Division
 - <b>Administrative Assistant</b> at [Halicioglu Data Science Institute](https://datascience.ucsd.edu/)
-    - Undergrad assistant to the premiering student council and student affairs-related matters at HDSI
+    - Undergrad assistant to the premiering student council and student affairs at HDSI
 - Previous <b>Research Scholar</b> at Semiconductor Research Corporation Research Scholars Program
     - Worked on projects related to the PRISM Center at UCSD, supported by the Semiconductor Research Corporation, including modeling of COVID-19 variants preference over time and exploratory/predictive analytics for precision medicine in Personalized and Secure Drug Discovery. Further details can be found under the involvement description with Niema Lab at Jacobs School of Engineering
 - <b>Player</b> and previous <b>Officer</b> on [UCSD Men's Club Water Polo Team](https://recreation.ucsd.edu/competitive-sports/m-water-polo/) (Sep 2021 - Present)
