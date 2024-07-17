@@ -51,7 +51,7 @@ title: More about me
     - Shadow Broker at two commercial real estate firms, receiving direct advice and guidance on real-world OMs and deals
     - "ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world." With the mission of shaping "the future of the built environment for transformative impact in communities worldwide."
 - <b>Developing Leader</b> at [NAIOP San Diego](https://www.naiop.org/) (Commercial Real Estate Development Association)
-- Others: <b>Student Member<b> at IREM San Diego and APA International + Technology Division
+- Others: <b>Student Member</b> at IREM San Diego and APA International + Technology Division
 - <b>Administrative Assistant</b> at [Halicioglu Data Science Institute](https://datascience.ucsd.edu/)
     - Undergrad assistant to the premiering student council and student affairs-related matters at HDSI
 - Previous <b>Research Scholar</b> at Semiconductor Research Corporation Research Scholars Program
