@@ -45,23 +45,18 @@ title: More about me
 
 ## Activities and Hobbies
 
-- <b>Active campus involvement</b>: Student Council at Halicioglu Data Science Institute, Newman Catholic Community at UCSD, Intramural Sports, UCSD Cycling, Mentor Collective
-- <b>Designer in Residence</b> at [World Design Capital San Diego Tijuana 2024](https://wdc2024.org/)
-    - Work alongside the Design-to-Action Lead to coordinate, supervise, and advise for the optimal execution and success of San Diego-Tijuana international collaboration projects in the Science & Technology Network. Serve a secretary role in meetings and correspondence with stakeholders, including WDC leaders from both sides of the border and the UCSD Design Lab. Simultaneously, provide data science and urban planning expertise to assist projects, notably the binational extension of the regional trolley/metro system, an interactive app to promote ecotourism, enabling well-designed ADUs as an eco-friendly solution to sustainability, livability, and housing affordability, and other innovative initiatives that make the region the World Design Capital.
+- <b>Active campus involvement</b>: Newman Catholic Community at UCSD, Intramural Sports, UCSD Cycling, Mentor Collective
 - <b>Etkin Scholar</b> and Associate Member at [Urban Land Institute-San Diego/Tijuana](https://sandiego-tijuana.uli.org/)
-    - Endorsements: [Mr. Todd Weaver, CPM, CCIM](https://synergycre.com/); [UC San Diego Department of Urban Studies & Planning](https://usp.ucsd.edu/)
+    - Endorsements: [Mr. Todd Weaver, CPM, CCIM](https://synergycre.com/)
+    - Shadow Broker at two commercial real estate firms, receiving direct advice and guidance on real-world OMs and deals
     - "ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world." With the mission of shaping "the future of the built environment for transformative impact in communities worldwide."
-- <b>Student Member</b> at [Institute of Real Estate Management](https://www.irem.org/)
-    - IREM San Diego Chapter
-- <b>Student Member</b> at [NAIOP - Commercial Real Estate Development Association](https://www.naiop.org/)
-    - NAIOP San Diego Chapter
-    - Sponsored by UC San Diego Urban Studies & Planning Department
-- <b>Professional Member</b> at [American Planning Association](https://www.planning.org/)
-    - California San Diego Section
-    - International and Technology Division - joined by referral from [Mr. Bill Anderson](https://usp.ucsd.edu/people/faculty/profiles/anderson-william.html), FAICP, Professor at UC San Diego, and former national President of the American Planning Association (2013-2015)
+- <b>Developing Leader</b> at [NAIOP San Diego](https://www.naiop.org/) (Commercial Real Estate Development Association)
+- Others: <b>Student Member<b> at IREM San Diego and APA International + Technology Division
+- <b>Administrative Assistant</b> at [Halicioglu Data Science Institute](https://datascience.ucsd.edu/)
+    - Undergrad assistant to the premiering student council and student affairs-related matters at HDSI
 - Previous <b>Research Scholar</b> at Semiconductor Research Corporation Research Scholars Program
-    - Worked on projects related to the PRISM Center at UCSD, supported by SRC, including modeling of COVID-19 variants preference over time and exploratory/predictive analytics for precision medicine in Personalized and Secure Drug Discovery. Further details can be found under the involvement description with Niema Lab at Jacobs School of Engineering
-- Previous <b>Officer</b> and <b>Player</b> on [UCSD Men's Club Water Polo Team](https://recreation.ucsd.edu/competitive-sports/m-water-polo/) (Sep 2021 - Sep 2023)
+    - Worked on projects related to the PRISM Center at UCSD, supported by the Semiconductor Research Corporation, including modeling of COVID-19 variants preference over time and exploratory/predictive analytics for precision medicine in Personalized and Secure Drug Discovery. Further details can be found under the involvement description with Niema Lab at Jacobs School of Engineering
+- <b>Player</b> and previous <b>Officer</b> on [UCSD Men's Club Water Polo Team](https://recreation.ucsd.edu/competitive-sports/m-water-polo/) (Sep 2021 - Present)
     - <strong><em>2022 National Champion</em></strong>
     - Won my team the Best Social Media Creative Posts Award by UCSD Recreation as Media & Event Coordinator
 - Previous [DS3](https://www.ds3ucsd.com/) Workshops Committee Member (Oct 2022 - Oct 2023)
