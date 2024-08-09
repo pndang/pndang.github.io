@@ -20,13 +20,12 @@ Organization website: [Qualcomm Institute](https://qi.ucsd.edu/)
 Contributed to developing digital twin platforms for UC San Diego, Chula Vista Bayfront, and Hollywood's Vinyl District.
 
 - Implemented scalable data integration workflows using blueprints and structs in Unreal Engine 5
-- Developed data viz apps using UE5 objects/instanced static meshes with dynamic spawning, scaling, georeferencing
+- Developed data visualization applications using UE5 objects/instanced static meshes with dynamic spawning, scaling, georeferencing
 - Implemented Cesium cartographic polygons, raster overlays, and color blending across material layers for tile coloring
-- Integrated Google Maps API for a realistic global world as the base for visualization needs in real estate and urban planning
-- Utilized Datasmith Exporter plugin to integrate Cesium in Unreal Engine with SketchUp Pro for property modeling
-- Built interactive, 3D widgets to display property/urban data, emphasizing user experience and future VR integration
-- Developed a framework for building digital twins of buildings in the real world for future placement in the city twins
-- Aggregated a large database of the San Diego-Carlsbad region data for future visualization in the cognitive city twins
+- Built interactive, 3D widgets to display urban data, emphasizing user experience and future VR integration
+- Integrated Google Maps API and SketchUp Pro Datasmith Exporter plugin for property and site plan modeling
+- Tested frameworks to build twins of real buildings for future placement in the city twins based on photogrammetry scans
+- Aggregated a large database of the San Diego-Carlsbad region planning & environmental data for future visualization
 
 <br>
 
@@ -42,13 +41,15 @@ Contributed to developing digital twin platforms for UC San Diego, Chula Vista B
 Organization website: [Biokind Analytics](https://www.biokind.org/)
 
 - Manage organizational leadership, budget, marketing, outreach, public relations, and recruitment activities
-- Worked with local healthcare non-profits in San Diego on potential avenues for data science to improve operations. Targeting ways to help clients improve efficiency, impact, outreach, client satisfaction, ROI, data systems/use case designs
+- Worked with local healthcare non-profits in San Diego on potential avenues for data science to improve operations. Targeting ways to help clients improve efficiency, impact, outreach, client satisfaction, ROI, data systems and use case designs
 - Oversee and participate in student data science projects to ensure quality, timely delivery, and meeting clients' expectations while upkeeping self; facilitating opportunities for students to apply academic training in impactful, real-world scenarios
 - Organize correspondence between members, university faculty, department advisors, and non-profit representatives
-- Analyzed large, archived, and operational datasets to identify key metrics and actionable insights, leading to improved client understanding of programs, initiatives, and grants performance; furthered clients’ mission as data-driven organizations
-- Over $140 million in combisned financial analyses performed, ranging from donations to research grants and charity events
-- Derived ground-truth insights into clients’ operations with statistical inference, reflected clients’ past operations, checked recent business decisions, and informed future choices. Performed feature selection/engineering for informative attributes
-- Specialize in geo-/demographic, financial, operational & business strategies analyses, dashboarding, turning data into action
+
+Lead project teams in developing data-driven solutions to address clients' operational challenges and objectives. Leverage data workflows ranging from simple to sophisticated, including retrospective, exploratory, and predictive analyses, large language models, and parallel computing with large datasets. Enhanced clients’ understanding of patient programs, donor initiatives, grants performance, business strategies, and investment decisions across over $140 million in combined financial analyses performed.
+
+Advise and collaborate with team members to ensure correct execution, appropriate analysis techniques, and practical, actionable results. Present findings through dashboards, web apps, and slide presentations, emphasizing intuitiveness, practicality, and actionable values that drive informed decisions.
+
+Driven by a commitment to exceptional service quality, providing insights that reflect clients’ past operations while informing recent and future decisions. Achieving a perfect track record of positive client testimonials and satisfaction.
 
 <br>
 
@@ -86,9 +87,8 @@ Real Estate + Data Science experiential learning fellowship with the Urban Studi
 Mentors: [Dr. Feiyang Sun](https://usp.ucsd.edu/people/faculty/profiles/sun-feiyang.html), [Dr. Mirle Rabinowitz-Bussell](https://usp.ucsd.edu/people/faculty/profiles/rabinowitz-bussell.html)
  
 - Reported affordable housing policy incentives and cost factors, emphasizing public improvements and tax incentives
-- Networked with industry professionals to study affordable housing market feasibility, focused on LIHTC and ADUs
+- Networked with developers to study market feasibility, provided research team with empirical information on the barriers and opportunities facing multifamily projects, pertinent to timing, permitting, site contexts, parking, and construction, labor and materials cost.
 - Received sponsorship to network with SDGBC to study green building techniques and integration with affordable housing
-
 
 <b>Data Science Fellow</b>
 
@@ -116,7 +116,7 @@ Mentor: [Dr. Niema Moshiri](http://niema.net/)
 - Reduced initial runtime by 97% (5s to sub-0.1s) with caching/memoization and efficient data structure implementation
 - Benchmarked data compression techniques to optimize serialization efficiency and expedite loading speed
 - Wrote 7 research notebooks to uncover patterns in 30+ large-scale datasets involving 3000+ cancer patients
-- Exceeded 87% accuracy across diverse evaluation metrics in accurately predicting breast cancer recurrence status
+- Exceeded 87% accuracy across diverse evaluation metrics in predicting breast cancer recurrence status
 - Analyzed disparities and data collection gaps to ensure ethical and responsible data science practices
 - Honored with a nomination by Dr. Moshiri to deliver a presentation at UCSD’s 36th Annual Undergrad Research Conference
 - Special commendation post by the Semiconductor Research Corporation on LinkedIn
