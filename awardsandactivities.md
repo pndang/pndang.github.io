@@ -50,7 +50,7 @@ title: More about me
     - Endorsements: [Mr. Todd Weaver, CPM, CCIM](https://synergycre.com/)
     - Shadow Broker at two commercial real estate firms, receiving direct advice and guidance on real-world OMs and deals
     - "ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world." With the mission of shaping "the future of the built environment for transformative impact in communities worldwide."
-- <b>Developing Leader</b> at [NAIOP San Diego](https://www.naiop.org/) (Commercial Real Estate Development Association)
+- <b>Developing Leader</b> at [NAIOP San Diego](https://www.naiop.org/) (Commercial Real Estate Mentorship)
 - Others: <b>Student Member</b> at IREM San Diego and APA International + Technology Division
 - <b>Administrative Assistant</b> at [Halicioglu Data Science Institute](https://datascience.ucsd.edu/)
     - Undergrad assistant to the premiering student council and student affairs at HDSI
