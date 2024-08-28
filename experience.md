@@ -38,7 +38,7 @@ Contributed to developing digital twin platforms for UC San Diego, Chula Vista B
   Part-time</em></p>
 </div>
 
-Organization website: [Biokind Analytics](https://www.biokind.org/)
+[Impact report](https://drive.google.com/file/d/1_j7CAYf0j3W--_8ikFqgjrSf4xJs5DE6/view?usp=sharing), [website](https://www.biokind.org/)
 
 - Manage organizational leadership, budget, marketing, outreach, public relations, and recruitment activities
 - Worked with local healthcare non-profits in San Diego on potential avenues for data science to improve operations. Targeting ways to help clients improve efficiency, impact, outreach, client satisfaction, ROI, data systems and use case designs
