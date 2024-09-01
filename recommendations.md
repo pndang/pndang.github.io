@@ -2,6 +2,8 @@
 title: References / Recommendations
 ---
 
+This is my "passion page" and rough outline of certain events that carry great meanings and some of my best memories. I am very grateful for each one and happy to chat about them if any stands out to you!
+
 <br>
 
 My letter of recommendation from Mr. William (Bill) Anderson, FAICP (please go [here](https://drive.google.com/file/d/1u9Rt9MrOtGsS-_iHue4dmQw74Q0htaOd/view?usp=sharing) for mobile view)
@@ -15,6 +17,8 @@ My letter of recommendation from Mr. Todd Weaver, CPM, CCIM (please go [here](ht
 <embed src="assets/PhuDang_LetterofRec_ProfWeaver.pdf" type="application/pdf" width="100%" height="820">
 
 <br>
+
+My commendation post from the Semiconductor Research Corporation on LinkedIn
 
 ![SRC post](assets/src.png)
 
