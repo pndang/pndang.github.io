@@ -8,7 +8,25 @@ title: My meaningful moments
 
 <br>
 
-<embed type="image/png" src="assets/thetimes/alila.png" alt="Alila Mareas" width="50%" height="50%"/>
+<embed type="image/png" src="assets/thetimes/alila.png" alt="Alila Marea" width="50%" height="50%"/>
+
+<br>
+
+<b>My first guest lecture by invitation from Professor Weaver on CRE finance</b> (April 17, 2024)
+
+<br>
+
+<embed type="image/png" src="assets/thetimes/refl.png" alt="CRE finance lecture" width="50%" height="50%"/>
+
+<br>
+
+<b>Awards Ceremony at Great Hall, UC San Diego</b> (April 5, 2024)
+
+<br>
+
+<embed type="image/png" src="assets/thetimes/uspac1.png" alt="awards" width="50%" height="50%"/>
+
+<embed type="image/png" src="assets/thetimes/uspac2.png" alt="awards" width="50%" height="50%"/>
 
 <br>
 
@@ -24,6 +42,8 @@ title: My meaningful moments
 
 - Memorandum of Understanding Signing Ceremony between Vietnam and the USA, featuring the U.S. Consulate General in HCM City, American Planning Association-International Division (APAID), Vietnam Urban Planning and Development Association (VUPDA), Professor Bill Anderson (UCSD USP), Ms. Mai Nguyen (MIT), and others. Event follows the elevation of United States-Vietnam relations to a <b>comprehensive strategic partnership</b>.
 - [Article](https://quyhoachdothi.com/en/announcement-vupda-signed-a-memorandum-of-understanding-with-the-american-planning-association/)
+- [My shout-out](https://drive.google.com/file/d/13HC73obompLqtLn2d5j9Q7tZJARSZVAJ/view?usp=sharing)
+- [Full event recording](https://www.youtube.com/watch?v=yuCth1ulzNA)
 
 <br>
 
