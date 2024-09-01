@@ -4,6 +4,14 @@ title: My meaningful moments
 
 <br>
 
+<b>Touring Alila Marea, a luxury beach resort, with its developer! </b> (MAy 29, 2024)
+
+<br>
+
+<embed type="image/png" src="assets/thetimes/alila.png" alt="Alila Mareas" width="50%" height="50%"/>
+
+<br>
+
 <b>Vietnam x USA</b> (November 20, 2023)
 
 <br>
