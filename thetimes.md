@@ -2,6 +2,8 @@
 title: My meaningful moments
 ---
 
+This is my "passion page" and rough outline of certain events that carry great meanings and some of my best memories. I am very grateful for each one and happy to chat about them if any stands out to you!
+
 <br>
 
 <b>Touring Alila Marea, a luxury beach resort, with its developer! </b> (May 29, 2024)
