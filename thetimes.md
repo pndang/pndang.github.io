@@ -4,7 +4,7 @@ title: My meaningful moments
 
 <br>
 
-<b>Touring Alila Marea, a luxury beach resort, with its developer! </b> (MAy 29, 2024)
+<b>Touring Alila Marea, a luxury beach resort, with its developer! </b> (May 29, 2024)
 
 <br>
 
