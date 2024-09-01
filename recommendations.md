@@ -16,7 +16,7 @@ My letter of recommendation from Mr. Todd Weaver, CPM, CCIM (please go [here](ht
 
 <br>
 
-![SRC post](src.png)
+![SRC post](assets/src.png)
 
 ![David Adarkwah](assets/davidadarkwah.png)
 
