@@ -16,7 +16,7 @@ My letter of recommendation from Mr. Todd Weaver, CPM, CCIM (please go [here](ht
 
 <br>
 
-My commendation post from the Semiconductor Research Corporation on LinkedIn
+My commendation post from the [Semiconductor Research Corporation](https://www.src.org/) on LinkedIn (June 2024)
 
 ![SRC post](assets/src.png)
 
