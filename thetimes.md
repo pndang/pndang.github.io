@@ -6,7 +6,7 @@ This is my "passion page" and rough outline of certain events that carry great m
 
 <br>
 
-<b>Meeting [Morgan Dene Oliver](https://foundation.ucsd.edu/board-of-trustees/trustee-bios/oliver-bio.html) and [Jeff Graham](https://usp.ucsd.edu/undergraduate/red/red-advisory-board/profiles/graham.html)! </b> (October 10, 2024)
+<b>Meeting [Morgan Dene Oliver](https://foundation.ucsd.edu/board-of-trustees/trustee-bios/oliver-bio.html) and [Jeff Graham](https://usp.ucsd.edu/undergraduate/red/red-advisory-board/profiles/graham.html)! </b> (October 17, 2024)
 - Unpictured are also [Marc Butten](https://usp.ucsd.edu/undergraduate/red/red-advisory-board/profiles/brutten.html) and [Darren Levitt](https://usp.ucsd.edu/undergraduate/red/red-advisory-board/profiles/levitt.html).
 
 <br>
