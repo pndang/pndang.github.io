@@ -33,7 +33,7 @@ title: Projects
 **Game Recommender**&nbsp;(Personal Project)
 
 - Developed game recommender systems for (1) play prediction using collaborative filtering and (2) hours played prediction using latent-factor models with coordinate descent and gradient descent. All models implemented from scratch with analogous performance to those of the Surprise library from peers following a class leaderboard.
-- Links: [Code](https://drive.google.com/drive/u/2/folders/1diIvweOs2dmneHEEoPX3W-tYyowZS1iN)
+- Links: [Code](https://github.com/pndang/CSE158/tree/main/assignment1)
 
 <br>
 
