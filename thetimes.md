@@ -6,6 +6,25 @@ This is my "passion page" and rough outline of certain events that carry great m
 
 <br>
 
+<b>Meeting [Morgan Dene Oliver](https://foundation.ucsd.edu/board-of-trustees/trustee-bios/oliver-bio.html) and [Jeff Graham](https://usp.ucsd.edu/undergraduate/red/red-advisory-board/profiles/graham.html)! </b> (October 17, 2024)
+- Unpictured are also [Marc Butten](https://usp.ucsd.edu/undergraduate/red/red-advisory-board/profiles/brutten.html) and [Darren Levitt](https://usp.ucsd.edu/undergraduate/red/red-advisory-board/profiles/levitt.html).
+
+<br>
+
+<embed type="image/png" src="assets/thetimes/deneoliver&jeff.jpg" alt="DUSP Professional Panel" width="50%" height="50%"/>
+
+<br>
+
+<b>Touring Marea Village, a mixed-use project next to the beach, with its developer! </b> (October 10, 2024)
+
+<br>
+
+<embed type="image/png" src="assets/thetimes/mareavillageplans.jpg" alt="Marea Village" width="50%" height="50%"/>
+
+<embed type="image/png" src="assets/thetimes/mareavillagesite.jpg" alt="Marea Village" width="50%" height="50%"/>
+
+<br>
+
 <b>Touring Alila Marea, a luxury beach resort, with its developer! </b> (May 29, 2024)
 
 <br>
