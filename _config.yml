@@ -32,9 +32,9 @@ nav-links:
   - name: Awards and Activities
     url: /awardsandactivities
     external: false
-  - name: thetimes
-    url: /thetimes
-    external: false
+  # - name: thetimes
+  #   url: /thetimes
+  #   external: false
   - name: (669) 274-8956
     url: 
     external: true
