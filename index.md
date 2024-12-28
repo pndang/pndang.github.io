@@ -10,7 +10,7 @@ Possesses extensive experience in data-driven tools, particularly statistics, ma
 
 Educated in commercial real estate finance/underwriting/valuation, mixed-use, transit-oriented/joint development, affordable housing, urban design, and green building.
 
-Always open to network, quality friendships, new opportunities, and discussions of Vietnam and Asia Pacific!
+Always open to connect!
 
 ## Focuses and Interests
 
