@@ -2,7 +2,7 @@
 ---
 ## About me
 
-From the San Francisco Bay Area, born and raised in Vietnam. An fourth-year undergrad studying data science and real estate and development, with a minor in urban studies and planning at UC San Diego. 
+From the San Francisco Bay Area, born and raised in Vietnam. A fourth-year undergraduate studying data science and real estate and development, with a minor in urban studies and planning at UC San Diego. 
 
 An eager, adaptive, and thoughtful young professional with a multidisciplinary and entrepreneurial record of leadership and extracurricular activities, fostering a career synergizing technology with the built world. 
 
