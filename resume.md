@@ -4,9 +4,9 @@ title: Resume
 
 <br>
 
-[**Real Estate resume**](https://drive.google.com/file/d/1CWwVQVYjcCSmFelQJMq-l9XHOivqf7o0/view?usp=sharings) (click for mobile view)
+[**Resume**](https://drive.google.com/file/d/1K8y2o-s87N-TUkCSphTsMsduBXS1sXdn/view?usp=sharings) (click for mobile view)
 
-<embed src="assets/PhuDang_RealEstateResume.pdf" type="application/pdf" width="100%" height="999">
+<embed src="assets/Phu Dang_Resume.pdf" type="application/pdf" width="100%" height="999">
 
 <br>
 
