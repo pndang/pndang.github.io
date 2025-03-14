@@ -4,7 +4,7 @@ title: Resume
 
 <br>
 
-[**Resume**](https://drive.google.com/file/d/1K8y2o-s87N-TUkCSphTsMsduBXS1sXdn/view?usp=sharings) (click for mobile view)
+[**Resume**](https://drive.google.com/file/d/1K8y2o-s87N-TUkCSphTsMsduBXS1sXdn/view?usp=sharings) &nbsp; (click here for mobile view)
 
 <embed src="assets/Phu Dang_Resume.pdf" type="application/pdf" width="100%" height="999">
 
