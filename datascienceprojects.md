@@ -8,6 +8,13 @@ title: Projects
 
 <br>
 
+**Digital Bouncers: Secure Smart Home Solution with Large Language Models**&nbsp;(Data Science Graduation Capstone Project)
+
+- As AI-driven smart home assistants become more prevalent, ensuring their security and reliability is essential. Digital Bouncers is an LLM-powered chatbot designed to provide homeowners with safe and accurate insights into their energy usage while mitigating AI-related risks. By integrating a Text-2-SQL LangChain agent, a LangGraph persistence layer, and cloud data storage in PostgreSQL, this solution enables dynamic, structured data retrieval and real-time contextual interactions. Advanced guardrails at the input, intermediary, and output levels ensure accuracy, prevent hallucinations, and protect users from misleading or harmful interactions. This project demonstrates an innovative approach to AI safety in smart home environments, setting a new standard for secure and intelligent home automation.
+- Links: [Code](https://github.com/pndang/digital-bouncers), [Charrette Board / Poster](https://drive.google.com/file/d/1JV8nb5XXPpC1XovJqdsJE4Sz_DUT4hGi/view?usp=sharing)
+
+<br>
+
 **Who's Dominating the Game**&nbsp;(Team Project)
 
 - A D3.js + Svelte web app showing a temporal analysis of console game genres and publishers’ prevalence by sales and crit scores 

@@ -21,8 +21,8 @@ nav-links:
     url: /resume
     external: false
   - name: Experience
-    url: /experience
-    external: false
+    url: https://www.linkedin.com/in/pndang/details/experience/
+    external: true
   - name: Projects
     url: /projects
     external: false

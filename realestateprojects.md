@@ -8,6 +8,14 @@ title: Projects
 
 <br>
 
+**HUE Hillcrest**&nbsp;(Real Estate & Development Graduation Capstone Project)
+
+- Like different hues blending into something beautiful, communities thrive when they bring people together. With 395 residences and a thoughtfully curated mix of community driven retail, including a shared creative work quarter, a lifestyle & wellness space, and the beloved Rite Aid, HUE is more than a development — HUE is a bold statement of a place where every individual, every story, and every hue come together to form something truly remarkable.
+- Links: [Offering Memorandum](https://www.dropbox.com/scl/fi/t8c2jwmvlopucupa24cy2/Capstone-OM-100.pdf?rlkey=znbzkmhv4ag6q7c5dhyemlu03&st=lxz4p0w3&dl=0
+), [Charrette Board / Poster](https://www.dropbox.com/scl/fi/15ijwqafglba2264m0t1x/Final-Capstone-Charrette-Board.pdf?rlkey=p5gr0eheqqsqeikzmramm3r0j&e=1&st=4nlin7cy&dl=0)
+
+<br>
+
 **H2 Hillcrest**&nbsp;(Personal Project)
 
 - A design-focused proposal for a state-of-the-art urban infill, mixed-use redevelopment project in Hillcrest, San Diego, to address housing needs, support multimodal transportation, and enhance the local economy with strategic commercial uses. Led by human-centered and climate-resilient placemaking values, with in-depth considerations for the lifestyles and culture inherent to Hillcrest.
