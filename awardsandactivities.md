@@ -9,7 +9,7 @@ title: More about me
 ### <strong>Student Member Of The Year</strong> &nbsp;(Awarded December 2025)
 - This award was offerred for the first time by IREM San Diego to celebrate a student member who has demonstrated leadership potential and contributed to the chapter's success. As a student seeking new opportunities, I was fortunate to have been welcomed by the board of IREM San Diego to lead Student Outreach, and saw a record-high level of new student members and engagement.
 
-### <strong>Data Science Department Appreciation Award</strong> &nbsp;(Awarded June 2025)
+### <strong>Data Science Department Outstanding Contributions Award</strong> &nbsp;(Awarded June 2025)
 - This award was given for outstanding contributions benefitting the community of Data Science students at the University of California, San Diego.
 
 ### <strong>Best Real Estate & Development Capstone Project Award</strong> &nbsp;(Awarded December 2025)
