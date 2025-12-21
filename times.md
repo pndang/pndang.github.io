@@ -2,7 +2,7 @@
 title: Times
 ---
 
-This page outlines certain events that carry great meanings and some of my best memories. I am very grateful for each one and here to create many more!
+This page outlines events that carry great meanings and some of my best memories. I am very grateful for each one and here to create many more!
 
 <br>
 
@@ -15,7 +15,7 @@ This page outlines certain events that carry great meanings and some of my best 
 
 <br>
 
-<b>Touring Marea Village, a mixed-use project next to the beach, with its developer! </b> (October 10, 2024)
+<b>Touring Marea Village, a mixed-use project next to the beach, with its developer </b> (October 10, 2024)
 
 <br>
 
@@ -25,7 +25,7 @@ This page outlines certain events that carry great meanings and some of my best 
 
 <br>
 
-<b>Touring Alila Marea, a luxury beach resort, with its developer! </b> (May 29, 2024)
+<b>Touring Alila Marea, a luxury beach resort, with its developer </b> (May 29, 2024)
 
 <br>
 
