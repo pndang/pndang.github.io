@@ -6,6 +6,9 @@ title: More about me
 
 ## Honors, Awards, and Credentials
 
+### <strong>Student Member Of The Year</strong> &nbsp;(Awarded December 2025)
+- This award was offerred for the first time by IREM San Diego to celebrate a student member who has demonstrated leadership potential and contributed to the chapter's success. As a student seeking new opportunities, I was fortunate to have been welcomed by the board of IREM San Diego to lead Student Outreach, and saw a record-high level of new student members and engagement.
+
 ### <strong>Emerging Innovator Award</strong> &nbsp;(Awarded April 2024)
 - This award honors a rising Urban Studies & Planning or Real Estate & Development senior who has demonstrated exceptional innovation (creative, possibly interdisciplinary, and/or cross-sector, forward-thinking approaches) in her/his/their academic work, research, campus-based or community-based roles, e.g., internships, student organizations, professional organizations, and project teams.
 
