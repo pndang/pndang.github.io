@@ -2,6 +2,16 @@
 ---
 ## About me
 
+From the San Francisco Bay Area, born and raised in Vietnam.
+
+I specialize in retail & medical office property investment advisory as part of the Levin Johnston Group at Marcus & Millichap, supporting clients in acquisitions, dispositions, development, and 1031 exchanges.
+
+Prior to joining the team, I lived in beautiful San Diego for four years, where I gained experience across the public, private, and nonprofit sectors — including private capital lending, development, city planning, landscape architecture, software engineering, and data science — in both academia at UC San Diego and professional practice. 
+
+Graduate from UC San Diego ('25) with a Bachelor of Science in Data Science, a Bachelor of Science in Real Estate & Development, and a minor in Urban Studies & Planning.
+
+<!--
+
 From the San Francisco Bay Area, born and raised in Vietnam. A fourth-year undergraduate studying data science and real estate and development, with a minor in urban studies and planning at UC San Diego. 
 
 An eager, adaptive, and thoughtful young professional with a multidisciplinary and entrepreneurial record of leadership and extracurricular activities, fostering a career synergizing technology with the built world. 
@@ -10,7 +20,8 @@ Possesses extensive experience in data-driven tools, particularly statistics, ma
 
 Educated in commercial real estate finance/underwriting/valuation, mixed-use, transit-oriented/joint development, affordable housing, urban design, and green building.
 
-Always open to connect!
+Always open to connect! 
+
 
 ## Focuses and Interests
 
@@ -25,3 +36,5 @@ Always open to connect!
 
 ### Real Estate & Development
 - Commercial real estate underwriting/valuation, finance, residential (multifamily, mixed-use), property management, affordable housing, green building, transit-oriented development, urban planning, urban economic development
+
+-->
