@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Projects (Archive - from college)
 ---
 
 <br>
@@ -10,9 +10,16 @@ title: Projects
 
 **HUE Hillcrest**&nbsp;(Real Estate & Development Graduation Capstone Project)
 
-- Like different hues blending into something beautiful, communities thrive when they bring people together. With 395 residences and a thoughtfully curated mix of community driven retail, including a shared creative work quarter, a lifestyle & wellness space, and the beloved Rite Aid, HUE is more than a development — HUE is a bold statement of a place where every individual, every story, and every hue come together to form something truly remarkable.
+- Like different hues blending into something beautiful, communities thrive when they bring people together. With 395 residences and a thoughtfully curated mix of community-driven retail, including a shared creative work quarter, a lifestyle & wellness space, and the beloved Rite Aid, HUE is more than a development — HUE is a bold statement of a place where every individual, every story, and every hue come together to form something truly remarkable.
 - Links: [Offering Memorandum](https://www.dropbox.com/scl/fi/t8c2jwmvlopucupa24cy2/Capstone-OM-100.pdf?rlkey=znbzkmhv4ag6q7c5dhyemlu03&st=lxz4p0w3&dl=0
 ), [Charrette Board / Poster](https://www.dropbox.com/scl/fi/15ijwqafglba2264m0t1x/Final-Capstone-Charrette-Board.pdf?rlkey=p5gr0eheqqsqeikzmramm3r0j&e=1&st=4nlin7cy&dl=0)
+
+<br>
+
+**Chollas Grove**&nbsp;(Master-planned Redevelopment Project at the 2025 NAIOP San Diego University Challenge)
+
+- Rooted in resilience and shaped by community, Chollas Grove reimagines a grocery-anchored retail center in San Diego’s Mid-City into a walkable, mixed-use neighborhood that prioritizes attainable homeownership, cultural continuity, and long-term value. Through a carefully phased strategy, the project preserves high-performing retail while introducing 180 for-sale townhomes, neighborhood-serving retail, and new public green space—allowing the site to evolve without disrupting existing cash flow. Inspired by local history, from Rolando Park’s iconic pedestrian catwalks to Mid-City’s citrus groves, Chollas Grove is not just a redevelopment, but a place designed to help families plant roots, build equity, and grow together.
+- Links: [Offering Memorandum](https://www.dropbox.com/scl/fi/qsp5v5s97nmzbvvhf404w/2025-UCSD-NAIOP-Final-OM.pdf?rlkey=5d27wmvwho9b1wi4ji86pj9ro&st=muhtrt7n&dl=0)
 
 <br>
 

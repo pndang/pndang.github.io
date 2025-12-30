@@ -16,13 +16,17 @@ My letter of recommendation from Mr. Todd Weaver, CPM, CCIM (please go [here](ht
 
 <br>
 
-![SRC post](assets/tiara.png)
+![Tiara](assets/tiara.png)
+
+<br>
+
+![Tiara](assets/eduardo.png)
 
 <br>
 
 My commendation post from the [Semiconductor Research Corporation](https://www.src.org/) on LinkedIn (June 2024)
 
-![SRC post](assets/src.png)
+![SRC](assets/src.png)
 
 <br>
 
