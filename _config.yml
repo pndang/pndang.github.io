@@ -35,6 +35,9 @@ nav-links:
   - name: Times
     url: /times
     external: false
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/pndang/
+    external: true
   - name: (669) 274-8956
     url: 
     external: true
