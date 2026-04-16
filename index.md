@@ -11,6 +11,8 @@ Prior to joining the team, I went to school in beautiful San Diego for four year
 
 Graduate from the University of California San Diego ('25) with a Bachelor of Science in Data Science, Bachelor of Science in Real Estate & Development, and minor in Urban Studies & Planning.
 
+***Featured In: [Urban Land Institute](https://drive.google.com/file/d/1OTVf6QKJKEaZVi4fU3z-II9a4EqnqA3q/view?usp=sharing)***
+
 ## About my team
 
 [Levin Johnston](https://levinjohnston.com/) is a top-performing investment advisory team at Marcus & Millichap, built on long-term relationships, thoughtful analysis, and a genuine commitment to helping investors make confident real estate decisions across the United States.
